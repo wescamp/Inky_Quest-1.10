@@ -1,0 +1,4471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-07-14 10:34-0400\n"
+"PO-Revision-Date: 2012-07-14 10:34-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:17
+msgid "Inky's Quest"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:18
+msgid "IQ"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:23
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#. [unit_type]: id=IQ Young Cuttlefish, race=monster
+#: Inky_Quest/_main.cfg:23 Inky_Quest/units/IQ_Young_Cuttlefish.cfg:4
+msgid "Young Cuttlefish"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#. [side]: id=Inky, type=IQ Young Cuttlefish
+#. [unit_type]: id=IQ Cuttlefish, race=monster
+#: Inky_Quest/_main.cfg:24 Inky_Quest/scenarios/01_A_Water_Struggle.cfg:46
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:41
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:41
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:44
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:44
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:39
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:39
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:39
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:45
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:46
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:41
+#: Inky_Quest/scenarios/12_Epilogue.cfg:47
+#: Inky_Quest/units/IQ_Cuttlefish.cfg:4
+msgid "Cuttlefish"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:24
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:25
+msgid "(Difficult)"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#. [unit_type]: id=IQ Kraken, race=monster
+#: Inky_Quest/_main.cfg:25 Inky_Quest/units/IQ_Kraken.cfg:5
+msgid "Kraken"
+msgstr ""
+
+#. [campaign]: id=Inky_Quest
+#: Inky_Quest/_main.cfg:27
+msgid ""
+"The Cuttlefish Campaign\n"
+"Are the cuttlefish mere beasts or something more? What stories would they "
+"tell if they could speak? This story provides one possible answer. The "
+"easiest difficulty provides hints for novice players.\n"
+"(Begginner level, 11 scenarios)\n"
+msgstr ""
+
+#. [about]
+#: Inky_Quest/_main.cfg:32
+msgid "Creator and Designer"
+msgstr ""
+
+#. [about]
+#: Inky_Quest/_main.cfg:38
+msgid "WML Programming"
+msgstr ""
+
+#. [about]
+#: Inky_Quest/_main.cfg:44
+msgid "Graphics"
+msgstr ""
+
+#. [entry]
+#: Inky_Quest/_main.cfg:47
+msgid "using mainline graphics"
+msgstr ""
+
+#. [entry]
+#: Inky_Quest/_main.cfg:51
+msgid "Giant Clam sprite"
+msgstr ""
+
+#. [entry]
+#: Inky_Quest/_main.cfg:62
+msgid "Lintana~ & WYRMY"
+msgstr ""
+
+#. [scenario]: id=01_A_Water_Struggle
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:7
+msgid "A Water Struggle"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:23
+msgid ""
+"Our story begins in a warm sea bay where the cuttlefish gather each year to "
+"spawn new generation of hungry cephalopods."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:28
+msgid ""
+"The oldest cuttlefish in this region is so huge that human sailors often "
+"mistake his head for a small island and his tentacles for sea serpents. We "
+"will therefore call him Master Sea Head."
+msgstr ""
+
+#. [side]: id=Inky, type=IQ Young Cuttlefish
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:38
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:32
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:32
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:37
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:36
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:31
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:31
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:31
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:37
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:38
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:33
+#: Inky_Quest/scenarios/12_Epilogue.cfg:39
+msgid "Inky"
+msgstr ""
+
+#. [unit]: type=IQ Sea Head, id=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:58
+msgid "Master Sea Head"
+msgstr ""
+
+#. [unit]: type=IQ Young Cuttlefish, id=Squiddy
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:71
+msgid "Squiddy"
+msgstr ""
+
+#. [unit]: type=IQ Young Cuttlefish, id=Beaky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:84
+msgid "Beaky"
+msgstr ""
+
+#. [unit]: type=IQ Tentacle
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:96
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:107
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:118
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:129
+msgid "Sea Head's Tentacle"
+msgstr ""
+
+#. [side]
+#. [side]: type=Mermaid Enchantress, id=Fish3
+#. [side]: type=Mermaid Priestess, id=Mirgata
+#. [side]: type=Merman Netcaster, id=Elcmas
+#. [side]: type=Merman Spearman, id=Fish2
+#. [side]: type=Merman Warrior, id=Fish1
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:149
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:66
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:61
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:88
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:115
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:139
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:165
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:294
+msgid "Mermen"
+msgstr ""
+
+#. [side]
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:168
+msgid "Nagas"
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:186
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:118
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:191
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:161
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:144
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:137
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:112
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:131
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:313
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:263
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:114
+msgid "Starting Objectives:"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:188
+msgid "Defeat all mermen and nagas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:192
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:132
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:346
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:372
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:401
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:485
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:511
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:540
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:627
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:660
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:700
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:201
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:460
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:593
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:681
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:770
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:972
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1027
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:175
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:664
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:151
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:430
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:475
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:122
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1209
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1299
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:141
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:319
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:273
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:645
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:120
+msgid "Death of Inky"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:196
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:136
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:350
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:405
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:489
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:544
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:631
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:179
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:668
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:155
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:434
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:479
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:126
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1213
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:145
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:323
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:277
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:649
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:124
+msgid "Death of Master Sea Head"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:200
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:140
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:354
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:376
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:409
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:493
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:515
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:548
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:635
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:664
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:704
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:205
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:464
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:597
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:685
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:774
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:976
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1031
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:183
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:778
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:829
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:158
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:304
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:680
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:163
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:442
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:487
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:130
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1217
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1303
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:149
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:327
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:289
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:657
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:128
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:212
+msgid ""
+"Listen, younglings. Those red blooded beings think we are non-sentient "
+"beasts, but one day cephalopods will rule the world!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:216
+msgid "Why do you think so?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:220
+msgid ""
+"They will weaken themselves in their futile struggles, until none of them "
+"survives. Just look at these mermen and nagas."
+msgstr ""
+
+#. [unit]: type=Merman Fighter, id=Baritonthun
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:225
+msgid "Baritonthun"
+msgstr ""
+
+#. [unit]: type=Naga Fighter, id=Mailos
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:295
+msgid "Mailos"
+msgstr ""
+
+#. [message]: speaker=Baritonthun
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:363
+msgid "What are you doing in our bay, snake people?"
+msgstr ""
+
+#. [message]: speaker=Mailos
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:367
+msgid "Thisss sssea isss oursss, fishshshsh."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:371
+msgid ""
+"It looks like they're going to fight dangerously close to our hatchery. "
+"Shouldn't we stop them before they might harm our hatchlings?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:375
+msgid ""
+"Of course, we should! I wish there were some more elders like me to defend "
+"it."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:379
+msgid "Well, you've got me and my brothers to help you."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:383
+msgid ""
+"Be careful, you're still young and small. You should leave those intruders "
+"to me and my tentacles."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:387
+msgid "You say it like your tentacles were separate beings."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:391
+msgid ""
+"Being so ancient as I am, I'm smart enough to control each of my tentacles "
+"independently and so huge that I can grab creatures on dry land."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:397
+msgid ""
+"HINT: Welcome to the cuttlefish campaign. Your units are native to deep "
+"water, so they get slowed even in shallow water and are very slow and "
+"vulnerable on dry terrain like that suspiciously hexagonal island on the "
+"north-east."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:402
+msgid ""
+"HINT: You can't recruit in this scenario, so be careful. Inky (marked with "
+"golden crown)and Master Sea Head (marked with silver crown) must survive "
+"until next scenario. The rest of your units are loyal (as indicated by "
+"bronze crowns), so you shouldn't lose them either, as they won't need any "
+"upkeep in the future."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:407
+msgid ""
+"HINT: Fortunately your enemies can't recruit either and are also fighting "
+"each other. However, both mermen and nagas are very fast and hard to kill in "
+"both deep and shallow water. The nagas are unaffected by day-night cycle, "
+"but the mermen are stronger at day and weaker at night."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:423
+msgid ""
+"HINT: A single tentacle isn't as tough or as fast as a whole cuttlefish and "
+"lacks a ranged attack. However, it also lacks swarm ability in melee and "
+"takes less experience to level up. It's stronger at night and weaker during "
+"the day. Its Regeneration ability can heal it or cure it from poison. Other "
+"units must stay in villages for such treat. "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:435
+msgid ""
+"HINT: A young cuttlefish is tougher and faster than a trench tentacle. Its "
+"melee attack has up to ten strikes, but their number decreases as "
+"cuttlefish's health does, so it's better not to attack when your cuttlefish "
+"is injured. Its ranged attack is weak, but it can poison the enemy, forcing "
+"it to reatreat to a village or a unit with curing abilities. "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:447
+msgid ""
+"HINT: Master Sea Head is very powerful, but he can't move outside water and "
+"can't advance further. Killing enemies with him is a waste of experience. "
+"Use him to only injure an enemy unit and then finish it off with a unit of "
+"yours that can advance further."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:461
+msgid ""
+"Remember, younglings, don't attract too much attention. We are outnumbered, "
+"so attack those who are injured first!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:474
+msgid "Am I doing it right, Master?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:478
+msgid "Of course, you are. One day you will be as huge as me."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:483
+msgid ""
+"If you advance Inky to Kraken, he can advance further to Trench Kraken. Your "
+"other units can't do that, so feel free to advance them to whatever you like."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:499
+msgid "What a tasty fish!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:517
+msgid "What a tasty snake!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:547
+msgid "The fish people are gone! We must kill the snake people now!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:553
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:598
+msgid "We have defeated all our enemies!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:557
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:602
+msgid ""
+"At last! Our hatchlings must be starving! We should find some food for them."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:592
+msgid "The snake people are gone! We must kill the fish people now!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:628
+msgid ""
+"Somebody has hidden something under that big tree. I see some yellow "
+"rocks... some smelly liquid ... and tasty meat!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/01_A_Water_Struggle.cfg:643
+msgid ""
+"We didn't save our hatchery in time! Our young must have starved to death by "
+"now!"
+msgstr ""
+
+#. [scenario]: id=02_A_Mussel_in_Distress
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:7
+msgid "A Mussel in Distress"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:22
+msgid ""
+"Young Inky has proven his courage and cunning in battle, so Master Sea Head "
+"decides to entrust him with another important task."
+msgstr ""
+
+#. [side]: type=Mermaid Priestess, id=Mirgata
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:61
+msgid "Mirgata"
+msgstr ""
+
+#. [side]: type=IQ Megalodon, id=Niuhi
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:89
+msgid "Niuhi the Shark"
+msgstr ""
+
+#. [side]: type=IQ Megalodon, id=Niuhi
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:94
+msgid "Sharks"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:120
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:477
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:507
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:619
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:696
+msgid "Kill Niuhi the Shark"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:124
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:338
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:368
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:623
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:656
+msgid "Kill Mirgata"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:128
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:342
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:397
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:481
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:536
+msgid "Bring Master Sea Head to the captured Giant Clam"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:162
+msgid "Now we shall catch some fish to feed our younglings."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:166
+msgid "I think I see some big fish!"
+msgstr ""
+
+#. [message]: speaker=Niuhi
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:218
+msgid "(dramatic music)"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:222
+msgid ""
+"Those are sharks! They must have caught the smell of blood after the battle. "
+"We must rally our forces and fight them off!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:227
+msgid ""
+"You can recruit Young Cuttlefish and Trench Tentacles now! You can also "
+"recall Master Sea Head's tentacles from the previous scenario."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:231
+msgid "It looks like the fish people had a similar idea."
+msgstr ""
+
+#. [side]: type=Merman Netcaster, id=Elcmas
+#. [unit]: type=Merman Netcaster, id=Elcmas
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:239
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:157
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:99
+msgid "Elcmas"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:258
+msgid ""
+"Look at this huge clam I was able to catch thanks to that steel equipment "
+"the humans gave us."
+msgstr ""
+
+#. [message]: speaker=Mirgata
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:262
+msgid ""
+"Baritonthun's squad hasn't returned yet. I'm afraid those nagas killed them. "
+"You should report that."
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:266
+msgid "Are you sure you can defend this island without my help?"
+msgstr ""
+
+#. [message]: speaker=Mirgata
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:270
+msgid ""
+"The nagas haven't appeared yet. Try to be back before they do. Good luck."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:287
+msgid "What is that thing the fish people have captured?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:291
+msgid "A giant clam. If we rescue it, I might persuade it to help us."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:295
+msgid "I didn't know you can speak with clams."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:299
+msgid ""
+"I have experienced many things in my life. One day I will tell you about it, "
+"but now we must purge this lagoon of those annoying fish."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:305
+msgid ""
+"HINT: Both your leader Inky and the mermaid Mirgata start in their keeps, so "
+"they can recruit units, while Niuhi the shark would have to steal someone's "
+"keep before recruiting. Note that both Mirgata and Niuhi are level two "
+"units, so killing them is worth twice as much experience as killing their "
+"minions."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:333
+msgid ""
+"Now take care of that fish witch that occupies our lagoon and I will rescue "
+"that clam."
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:336
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:475
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:617
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:454
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:587
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:675
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:764
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1017
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:768
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:815
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1203
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1293
+msgid "Continued Objectives:"
+msgstr ""
+
+#. [message]
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:363
+msgid ""
+"Now that that big dumb fish is dead, I only have to kill that fish with a "
+"shiny stick to defend our lagoon."
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:366
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:395
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:505
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:534
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:654
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:694
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:658
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:469
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:639
+msgid "Final Objectives:"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:392
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:531
+msgid ""
+"Well done. Now that both those fish leaders are dead, rescuing that clam "
+"shouldn't be hard."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:424
+msgid ""
+"Now that those fish are dead, our younglings can feast on their carrion. And "
+"I think I have made a breakthrough in communication with this clam."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:472
+msgid "Now take care of that giant shark and I will rescue that clam."
+msgstr ""
+
+#. [message]
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:502
+msgid ""
+"Now that that fish with a shiny stick is dead, I only have to kill that big "
+"dumb fish to defend our lagoon."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:563
+msgid ""
+"Now that those fish are dead, our younglings can feast on their carrions. "
+"And I think I have made a breakthrough in communication with this clam."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:597
+msgid ""
+"I'll try to free this clam and talk to it. However,it will take some time. "
+"Meanwhile you'll have to fight without my help."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:607
+msgid "Don't worry, I can defeat those two big fish without your help."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:644
+msgid ""
+"Don't worry, I can defeat that fish with a shiny stick without your help."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:680
+msgid ""
+"I'll free this clam and try to talk to it. However,it will take some time. "
+"Meanwhile you'll have to fight without my help."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:684
+msgid "Don't worry, I can defeat that big dumb fish without your help."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:713
+msgid ""
+"Now that those fish are dead, our younglings can feast on their carrion and "
+"I have enough time to free this unfortunate clam."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:730
+msgid ""
+"I didn't find enough food for the hatchlings. They will starve to death!"
+msgstr ""
+
+#. [scenario]: id=03_Inky_Goes_Fishing
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:7
+msgid "Inky Goes Fishing"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:22
+msgid ""
+"The rule of cuttlefish over the island was secured, but they still needed "
+"more food."
+msgstr ""
+
+#. [side]: type=Merman Warrior, id=Fish1
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:57
+msgid "Mimmudd"
+msgstr ""
+
+#. [side]: type=Merman Spearman, id=Fish2
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:84
+msgid "Alahuns"
+msgstr ""
+
+#. [side]: type=Mermaid Enchantress, id=Fish3
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:111
+msgid "Derceto"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:193
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1019
+msgid "Kill 20 Mermen"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:197
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:968
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1023
+msgid "OR Defeat all enemy leaders"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:258
+msgid "I bring horrible news! Mirgata and her crew were killed!"
+msgstr ""
+
+#. [message]: speaker=Fish2
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:262
+msgid ""
+"You're truly a bearer of bad news! Was it work of those nagas you spoke "
+"about before?"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:266
+msgid "Not nagas, but cuttlefish! And sharks! And cuttlefish! And..."
+msgstr ""
+
+#. [message]: speaker=Fish1
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:270
+msgid ""
+"I think you have already mentioned the cuttlefish. You seem to be too "
+"exhausted and shocked to speak coherently. Have a rest."
+msgstr ""
+
+#. [message]: speaker=Fish3
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:287
+msgid ""
+"We should send some scouts to that island just to be sure. A human ship is "
+"supposed to cross this archipelago today and we should keep its way clear. "
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:291
+msgid "I'd like to introduce you to Gaa the Clam."
+msgstr ""
+
+#. [unit]: type=IQ Giant Clam, id=Gaaa
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:296
+msgid "Gaaa"
+msgstr ""
+
+#. [message]: speaker=Gaa
+#. [message]: speaker=Gaaa
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:309
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:330
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:948
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:281
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:711
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:243
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:266
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:461
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1200
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1236
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1312
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:317
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:579
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:832
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1302
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:444
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:500
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:538
+#: Inky_Quest/utils/deaths.cfg:60 Inky_Quest/utils/lichen.cfg:40
+#: Inky_Quest/utils/lichen.cfg:60
+msgid "Gaaa!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:313
+msgid "Nice to meet you, Gaaa."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:318
+msgid "You can recruit and recall Giant Clams as long as Gaaa stays alive."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:322
+msgid ""
+"However, we still need food for our younglings! You should be able to gather "
+"it without my help as I have to rest for a while."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:326
+msgid "Was talking to that clam so exhausting?"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:334
+msgid "I see."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:338
+msgid ""
+"Be careful. This keep, the cage where Gaaa was kept and the bridges on this "
+"island were made by the land-dwellers. Don't be surprised is their ship "
+"lands here."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:342
+msgid "Zzzzz..."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:353
+msgid ""
+"It looks like I have to catch some fish myself. I think 20 will be enough."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:359
+msgid ""
+"HINT: Giant clams are very slow and cost lots of gold to recruit because "
+"they are already level two units. However, they are very resilient, their "
+"melee attacks can slow an opponent, thus halving its movement and attack "
+"capacities, and they are also capable of ranged attacks."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:377
+msgid "Those bipeds are almost as tasty as the fish."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:394
+msgid "The human ship was full of supplies."
+msgstr ""
+
+#. [print]
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:423
+msgid "$units_slain Fish Caught"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:444
+msgid ""
+"We have slain enough fish people to feed our younglings. I should wake "
+"Master Sea Head now."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:451
+msgid ""
+"We have slain enough fish people to feed our younglings. Now we must kill "
+"those land-dwellers!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:456
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:589
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:677
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:766
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:960
+msgid "Kill Magister Teonyc"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:482
+msgid "I didn't find enought food! The hatchlings will starve to death!"
+msgstr ""
+
+#. [message]: speaker=Fish1
+#. [message]: speaker=Fish2, speaker=Fish3
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:511
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:548
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:636
+msgid "Those sea monsters seem to be as hungry as Elcmas reported!"
+msgstr ""
+
+#. [message]: speaker=Fish2
+#. [message]: speaker=Fish2, speaker=Fish3
+#. [message]: speaker=Fish3
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:515
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:552
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:640
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:729
+msgid "The human ship should arrive in matter of hours. We should warn them!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:530
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:618
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:707
+msgid "This fish was really huge!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:577
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:665
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:754
+msgid ""
+"Having caught this huge fish, we have enough food for the hatchlings. I "
+"should wake Master Sea Head now."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:584
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:672
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:761
+msgid ""
+"Having caught this huge fish, we have enough food for the hatchlings. "
+"However, we should defend the hatchery from the land-dwellers."
+msgstr ""
+
+#. [message]: speaker=Fish1
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:725
+msgid "Those sea monsters seem to be as hungry as Elcmas has reported!"
+msgstr ""
+
+#. [unit]: type=Merman Fighter, id=Vodniwha
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:807
+msgid "Vodniwha"
+msgstr ""
+
+#. [unit]: type=Transport Galleon, id=Alealyra
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:831
+msgid "Alealyra"
+msgstr ""
+
+#. [unit]: type=Red Mage, id=Teonyc
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:841
+msgid "Magister Teonyc"
+msgstr ""
+
+#. [message]: speaker=Teonyc
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:932
+msgid ""
+"Why do we stop here? You are supposed to escort us to sir Daedry's fortress. "
+"It's your part of the deal!"
+msgstr ""
+
+#. [message]: speaker=Vodniwha
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:936
+msgid ""
+"There are reports of sea monsters' attacks. They have killed many of our "
+"people. If you want to stay in one piece, wait here until we fend those "
+"beasts off."
+msgstr ""
+
+#. [message]: speaker=Teonyc
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:940
+msgid ""
+"Sir Daedry has written about strange abominations haunting his outpost. "
+"These sea creatures may be related. My men will help you fight them."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:944
+msgid ""
+"Those are the land-dwellers Master Sea Head spoke about! And they're "
+"dangerously close to our base! Maybe we can defeat them, if we kill that "
+"hairy one with a shiny stick."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:954
+msgid ""
+"HINT: Humans move and fight better on dry land than in water, so try to lure "
+"them into the sea. Magister Teonyc has a powerful attack that always has 70% "
+"chance to hit, so choose carefully what units you attack him with."
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:958
+msgid "New Objectives:"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:964
+msgid "AND kill 20 Mermen"
+msgstr ""
+
+#. [message]: speaker=Teonyc
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:996
+msgid ""
+"You filthy beast! People of Wesnoth will avenge my death and send you back "
+"to the abyss you came from!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1007
+msgid ""
+"This will teach those land-dwellers to keep off our territory. I should wake "
+"Master Sea Head now."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1014
+msgid ""
+"This will teach those land-dwellers to keep off our territory. Now back to "
+"fishing."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1050
+msgid "Die, foul spawn of darkness!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1063
+msgid "Those horrible things are as aggresive as the mermen told us!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1071
+msgid "I didn't find enough food! The hatchlings will starve to death!"
+msgstr ""
+
+#. [scenario]: id=04_The_Haunted_Ford
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:7
+msgid "The Haunted Ford"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:21
+msgid ""
+"The destruction of the human ship proved more trouble than Inky expected. If "
+"the army of Wesnoth were to counterattack, then results could have been "
+"disastrous for our invertebrate friends."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:26
+msgid ""
+"Sea Head and Inky therefore chased the merman scout to a small human "
+"fortification that belonged to Sir Daedry, the superior to unfortunate "
+"magister Teonyc. However, waters surrounding this castle hid a more sinister "
+"force..."
+msgstr ""
+
+#. [side]: type=General, id=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:57
+msgid "Sir Daedry"
+msgstr ""
+
+#. [side]: type=General, id=Daedry
+#. [side]: type=Merman Netcaster, id=Elcmas
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:69
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:112
+msgid "Humans"
+msgstr ""
+
+#. [side]
+#. [unit]: type=Bone Shooter
+#. [unit]: type=Chocobone
+#. [unit]: type=Deathblade
+#. [unit]: type=Ghost
+#. [unit]: type=Revenant
+#. [unit]: type=Shadow
+#. [unit]: type=Shadow, id=Ghost2
+#. [unit]: type=Skeleton
+#. [unit]: type=Skeleton Archer
+#. [unit]: type=Walking Corpse
+#. [unit]: type=Wraith
+#. [unit]: type=Wraith, id=Ghost1
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:149
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:290
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:299
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:308
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:316
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:324
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:332
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:340
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:348
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:502
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:524
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:540
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:557
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:573
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:589
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:605
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:625
+msgid "Ancient Dead"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:163
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:817
+msgid "Kill sir Daedry"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:167
+msgid "AND Kill Elcmas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:171
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:821
+msgid "Human unit reaches the continent"
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:208
+msgid ""
+"Magister Teonyc's ship is late. But I paid those mermen to escort it... What "
+"could go wrong?"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:223
+msgid ""
+"I bring horrible news! Magister Teonyc and the whole crew of his ship were "
+"killed by sea monsters. We tried to protect them, but it was like those "
+"beasts were organized..."
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:227
+msgid ""
+"It must have been revenge of that lich we banished from this island. I think "
+"we should ask the Kingdom for reinforcements!"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:231
+msgid ""
+"We lost many of our people while being unable to fulfill our part of the "
+"deal. My kind will help you fight those abominations to restore our honor."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:277
+msgid ""
+"It looks like we are late. The land-dwellers on this island know about our "
+"achievements. However, I cannot go on the dry land land. My brain is so big "
+"that it would collapse under its own weight. It's up to you and other "
+"younglings to kill the land-dweller leader."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:285
+msgid ""
+"Fortunately there is an abandoned keep where we can rally our forces. How "
+"convenient!"
+msgstr ""
+
+#. [message]: speaker=Ghost1
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:355
+msgid ""
+"I feel presence of mortals in our lord's keep. Lord Ravyan won't be happy."
+msgstr ""
+
+#. [message]: speaker=Ghost2
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:359
+msgid "Revenge! Death to all living!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:363
+msgid ""
+"So much for convenient. But what are those beings? They look like somebody "
+"has already eaten them."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:367
+msgid ""
+"They are undead, corpses animated by magic. They are known for hatred to all "
+"life, so land-dwellers on the continet might blame them for destruction of "
+"this outpost, if we don't let anybody escape."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:371
+msgid ""
+"I've seen the fish people and the land-dwellers using magic and now there "
+"are corpses animated by magic. Why don't we cuttlefish use magic?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:375
+msgid ""
+"Actually, we can. Did you think I was sleeping while you were fishing? I was "
+"studying the remains of those mermaids you slew earlier. I've reached two "
+"conclusions. First: The're yummy. Second: I've grasped the basics of their "
+"magic."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:380
+msgid "You can recruit Magic Tentacles now!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:384
+msgid ""
+"However, infusing a tentacle with magic takes much concentration and makes "
+"the tentacle vulnerable, so don't expect using it for melee."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:390
+msgid ""
+"HINT: The undead cannot be poisoned. Skeletal undead (like Revenenats) can "
+"hide in deep water, but are severely handicapped there and take more damage "
+"from impact attack of your tentacles. Spiritual undead (like wraiths) can "
+"soar over water and take half damage from all your attacks."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:395
+msgid ""
+"HINT: Magic tentacles cannot fight in melee and are more fragile than "
+"regular tentacles, so you must protect them. However, they have powerful "
+"ranged attack. They can regenerate like regular tentacles, but they can also "
+"heal your cuttlefish and clams."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:400
+msgid ""
+"HINT: Magic attacks of Magic tentacles always have 70% chance to hit the "
+"target. This makes them useful against units with high defenses like mermen "
+"in water or Fencers in villages. However, if enemy's defence is lower than "
+"30% (like humans in water) magic attacks become counterproductive."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:414
+msgid "Consider this a recruitment!"
+msgstr ""
+
+#. [unit]: type=IQ Wight
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:423
+msgid "Ford Haunt"
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:647
+msgid ""
+"As if recruiting people to work on a haunted island wasn't hard enough, now "
+"they're being killed by those horrible things! I think I should increase "
+"their salaries or something..."
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:667
+msgid ""
+"The situation doesn't look good. I should send a messenger to the Kingdom."
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:671
+msgid "RHENNYN!"
+msgstr ""
+
+#. [unit]: id=Rhennyn, type=Dragoon
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:675
+msgid "Rhennyn"
+msgstr ""
+
+#. [message]: speaker=Rhennyn
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:690
+msgid "At your command, sir!"
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:694
+msgid ""
+"If I remember correctly, you wanted to return to the continent. You can do "
+"it now and tell the first military base you find to send some "
+"reinforcements! Just don't get yourself killed."
+msgstr ""
+
+#. [message]: speaker=Rhennyn
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:698
+msgid "Yes, sir!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:702
+msgid "Remember, Inky, we mustn't let any land-dweller reach the mainland."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:715
+msgid "I like the way you think, Gaaa."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:733
+msgid "I have made it to the shore! Those beasts cannot catch me now!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:737
+msgid "Now they will tell their allies to assault us. We are doomed!"
+msgstr ""
+
+#. [message]: speaker=Daedry
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:753
+msgid ""
+"I have failed, but another will take my place! The kingdom of Wesnoth will "
+"never bow to you, foul beast!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:765
+msgid ""
+"The land-dweller leader is dead. Now we must prevent that merman from "
+"warning other land-dwellers!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:770
+msgid "Kill Elcmas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:774
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:825
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:150
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:296
+msgid "Death of Inky or Master Sea Head"
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:800
+msgid ""
+"I have failed Mirgata. I have failed the rest of my kin. I have failed sir "
+"Daedry. I have failed everybody..."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:812
+msgid ""
+"However, the land-dweller leader is still alive. I believe you can defeat "
+"him."
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Ravyan
+#. [unit]: id=Ravyan, type=Ancient Lich
+#. [unit]: type=Ancient Lich, id=Ravyan
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:856
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:170
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:54
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:83
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:55 Inky_Quest/utils/lichen.cfg:72
+msgid "Lich-Lord Ravyan"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:866
+msgid ""
+"It seems as if I can't take few days off without somebody breaking into my "
+"fortress. Attack, my slaves!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:870
+msgid ""
+"I can see a giant army of undead on the horizon! We have no chance of escape!"
+msgstr ""
+
+#. [scenario]: id=05_Clash_of_the_Drakes
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:6
+msgid "Clash of the Drakes"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:15
+msgid ""
+"Just when Inky and Master Sea Head thought that they had completed their "
+"mission, they were faced with a more powerful enemy than anything they had "
+"seen before: an ancient lich who claimed to be an apprentice of the infamous "
+"lich-lord Jevyan."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:20
+msgid ""
+"Ravyan was fairly minor as far as lich-lords go and his forces wouldn't be a "
+"worthy opponent to the army of Wesnoth. But now the soldiers that held him "
+"at bay were dead and he was able to unleash his horrible powers on our "
+"heroic molluscs."
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:59
+msgid "Lich-lord Ravyan"
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Ravyan
+#. [side]: type=Naga Myrmidon, id=Zlek
+#. [side]: type=Naga Sentinel
+#. [side]: type=Spectre, id=Slave
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:72
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:67
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:67
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:100
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:96
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:123
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:174
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:68
+msgid "Ravyan's Forces"
+msgstr ""
+
+#. [side]: type=Drake Flameheart, id=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:96
+msgid "Kermath Ihn"
+msgstr ""
+
+#. [side]: type=Drake Flameheart, id=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:110
+msgid "Drake Loyalists"
+msgstr ""
+
+#. [side]: type=Drake Flare, id=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:118
+msgid "Ga'ashinari"
+msgstr ""
+
+#. [side]: type=Drake Flare, id=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:132
+msgid "Drake Rebels"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:146
+msgid "Move Master Sea Head and Inky to the northern edge of the map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:154
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:300
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:676
+msgid "None of the Drakes survives"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:206
+msgid "Hurry up, Inky. That undead lord seems to be chasing us!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:210
+msgid ""
+"From what I remember of the previous battle, those freaks can't move any "
+"fast in the water. We will die of venerable age before they catch us."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:214
+msgid ""
+"Using my powers over fungi I can create way for my forces. It's just matter "
+"of time before I catch you, molluscs!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:219
+msgid ""
+"Look, Master! Those abominations can turn sea to land. Perhaps we can't "
+"outswim them after all."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:223
+msgid ""
+"That's why we've come here. This volcanic archipelago is home to the Drakes. "
+"They breath flames and the undead seem vulnerable to fire."
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:227
+msgid ""
+"Today is the day of your defeat, old man! I challenge you to the duel for "
+"the position of the warchief!"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:231
+msgid ""
+"You dare to challenge me, twerp? I've seen Nagas that were stronger and "
+"Saurians that were braver than you!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:235
+msgid ""
+"Do you think those fire-breathing reptiles pose an obstacle to me, molluscs? "
+"I'm invulnerable! Nothing can stop me! You cannnot hide from my wrath!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:239
+msgid ""
+"Just in case his boasting has any seed of truth, we should escape while "
+"there are still some Drakes that could slow him down."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:249
+msgid ""
+"HINT: Drakes fight better at day, are very strong and take less damage from "
+"impacts of your tentacles. At the same time, they are easy to hit on most "
+"terrains. With exception of the heavily armored Clashers, drakes can fly "
+"over water and breath fire, but are vulnerable to pierce attacks."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:259
+msgid ""
+"Look, Master. There is some weird cuttlefish that seem to be trapped in "
+"something white."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:263
+msgid ""
+"That white thing is ice. It is water turned solid by low temperature. This "
+"bring question what is it doing in this warm environment inhbited by fire-"
+"breathing creatures."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:267
+msgid ""
+"Maybe he will tell us if we save him from it. But I better not touch that "
+"ice. It looks really cold."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:271
+msgid ""
+"The volcano on the north-west looks like it's connected to several vents. If "
+"we block them, the accumulated pressure might cause the volcano to explode "
+"and melt the ice."
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:286
+msgid "New objectives:"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:288
+msgid "Rescue the trapped creature by closing the volcanic vents"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:292
+msgid "AND move Master Sea Head and Inky to the northern edge of the map"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:352
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:438
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:524
+msgid "One vent is closed, but we must block them all."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:364
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:450
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:536
+msgid "There is still one open vent. Hurry up!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:376
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:462
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:548
+msgid ""
+"Now when all the vents are closed, we should wait until the volcano explodes."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:380
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:466
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:552
+msgid ""
+"But rather than waiting idly, we should try to get as far away from that "
+"undead lord as possible."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:384
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:470
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:556
+msgid "Good idea, Inky."
+msgstr ""
+
+#. [message]: speaker=Gaa
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:388
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:474
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:560
+msgid "Gaa!"
+msgstr ""
+
+#. [unit]: type=IQ Fire Squid, id=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:610
+msgid "Flamy"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:630
+msgid "Thank you for freeing me. It's nice to see some fellow cephalopods."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:634
+msgid ""
+"Hello, my name is Inky and this is Master Sea Head. Who are you? You don't "
+"look like a normal cuttlefish."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:638
+msgid ""
+"My name is Flamy and I'm a fire squid. We live in this volcanic archipelago "
+"and have learned how to breathe fire just like the drakes do."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:642
+msgid "So how did you get trapped in that ice?"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:646
+msgid ""
+"A blind lizard mage is terrorizing these waters, setting traps to catch my "
+"kind."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:650
+msgid ""
+"Like if one crazy user of ice magic chasing us wasn't enough. Don't the land-"
+"dwellers have something better to do than trying to kill us?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:654
+msgid "Welll, they try to kill each other often too."
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:660
+msgid "Move Master Sea Head, Inky and Flamy to the northern edge of the map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:672
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:159
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:438
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:483
+msgid "Death of Flamy"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:722
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:772
+msgid "Wait for me, friends!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:730
+msgid "Hurry up, Inky! We must escape!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:738
+msgid "We should rescue the frozen creature before we leave."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:780
+msgid "Everybody move here, so we can escape!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:788
+msgid "I think we shouldn't leave the trapped creature behind."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:817
+msgid "Wait for me, younglings!"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:825
+msgid "We should go this way. Hurry up!"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:856
+msgid ""
+"We are attacked by some monsters. Shouldn't we postpone our duel until we "
+"deal with these beasts?"
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:860
+msgid "Are you already scared of me, old man?"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:864
+msgid "Scared of you, twerp? Never!"
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:889
+msgid "Your reign is over, old man! I am the warchief now!"
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:895
+msgid ""
+"Well, this wasn't the way I expected to win, but it looks like I'm the new "
+"warchief."
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:904
+msgid ""
+"Killed by those monsters rather than in a honorable combat. what a shame!"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:927
+msgid "The duel is over! I remain the warchief! You never had a chance, twerp!"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:933
+msgid ""
+"What a senseless waste of a drake's life. Unless anyone else wants to "
+"challenge me, I remain the warchief."
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:942
+msgid "I expected to enjoy the position of the warchief for longer time..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:962
+msgid ""
+"Now that there are no drakes in way I can finally destroy you, molluscs!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:984
+msgid "Stupid mollusc! I've already told you that I'm invulnerable!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:992
+msgid "You will never escape me, molluscs!"
+msgstr ""
+
+#. [scenario]: id=06_Blinded_by_the_Mists
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:6
+msgid "Blinded by the Mists"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:15
+msgid ""
+"Leaving Ravyan to fight the drakes, our heroes prapared to battle the "
+"saurian shaman, who was plagueing Flamy's brethen. His name was Sosarix and "
+"he had lost his eyesight after being shot to head by a dwarvish dragon "
+"guard. This experience somehow increased his powers, but it surely didn't "
+"make him a better person."
+msgstr ""
+
+#. [side]: type=IQ Saurian Blind Seer, id=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:54
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:84
+msgid "Sosarix the Blind"
+msgstr ""
+
+#. [side]: type=IQ Mud Titan, id=Mud Boss
+#. [side]: type=IQ Saurian Blind Seer, id=Sosarix
+#. [side]: type=Saurian Flanker, id=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:67
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:95
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:122
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:97
+msgid "Saurians"
+msgstr ""
+
+#. [side]: type=Saurian Flanker, id=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:81
+msgid "Sprazs"
+msgstr ""
+
+#. [side]: type=IQ Mud Titan, id=Mud Boss
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:108
+msgid "Mud Boss"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:139
+msgid "Kill Mud Boss"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:143
+msgid "AND Kill Sprazs"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:147
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:426
+msgid "AND Kill Sosarix the Blind"
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:224
+msgid ""
+"Ssso, uncle, we have ssstolen those boomsssticksss from thossse bearded "
+"ratsss, captured thessse human shshsshipssss and hired sssome nagasss. "
+"What'sss the next ssstep of your plan?"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:228
+msgid ""
+"Now we will see if those traps worked. Once we have cought enough seafood, "
+"we will use it to bait the fish guarding the Divining Pool, so I can use its "
+"magic energies to become even more powerful than I am now."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:258
+msgid "This must be the blind lizard you have spoken about, Flamy."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:262
+msgid ""
+"Yes. I will tell other fire squids to help you. He is very powerful, but "
+"together we can foil his plans."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:271
+msgid "You can recruit Fire Squids now!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:275
+msgid ""
+"Wait. I can sense large amount of cuttlefish swimming in our direction. "
+"Those sea monsters must be conspiring against us!"
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:279
+msgid ""
+"The Cuttlefishshsh are conssspiring againssst usss? Are you sssure that that "
+"headshshshot had only possssssitive effectsss on your brain?"
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:305
+msgid "Ouch!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:309
+msgid ""
+"I'm the brains, you are the brawn. If I tell you to catch squids, you do it "
+"without impertinent remarks."
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:313
+msgid ""
+"I apologizzze, uncle. But can't you ussse your magic to help usss with "
+"catching thossse sssea monstersss?"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:317
+msgid ""
+"Until I reach the Divining Pool my powers have limits. However, I know few "
+"spells exactly for this situation."
+msgstr ""
+
+#. [message]: speaker=Mud Boss
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:342
+msgid "Gurgle! Gurgle!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:346
+msgid ""
+"Thanks to my linking spell we will be invulnerable as long as that huge "
+"mudcrawler remains alive."
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:350
+msgid "Shshshouldn't we hide that mud bosssss in sssome sssafer place?"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:354
+msgid ""
+"That's what my next spell is for. Let eyes of our enemies be blinded by "
+"mists!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:367
+msgid ""
+"HINT: You can see the terrain on this map, but not the enemy units, as "
+"they're covered by fog. Your units can remove the fog in the area they can "
+"reach, but this may be problematic on some terrains. When your units move "
+"from once revealed place, the fog reappears."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:372
+msgid ""
+"HINT: Saurians fight better at night and are hard to hit on sand and swamps. "
+"However, they take more damage from fire and impact. Meanwhile mudcrawlers "
+"are nigh impervious to impact, but highly susceptible to fire."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:377
+msgid ""
+"HINT: Fire squids fight with their tentacles in melee just like the "
+"cuttlefish. However, they have lower health and don't spit poison. Instead "
+"they breath fire which is does more damage to some enemies, namely saurians, "
+"mudcrawlers and undead. "
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:393
+msgid ""
+"Look, uncle. Thossse sssea monsssstersss have dessstroyed your mud titan. We "
+"are vulnerable now!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:397
+msgid ""
+"No, you are vulnerable now. The way the spell works I'm still invulnerable "
+"as long as you survive."
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:401
+msgid "It'sss like you intend to ussse me asss a meatshshshield, uncle."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:405
+msgid ""
+"See, some Saurians are more expendable than other. You have only one genius "
+"uncle, but I have multiple stupid relatives."
+msgstr ""
+
+#. [objectives]
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:420
+msgid "Continued objectives:"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:422
+msgid "Kill Sprazs"
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:458
+msgid "Uncle, sssave me!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:462
+msgid ""
+"You were never of much use, Sprazs. I'll fare better if I kill those squids "
+"personally!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:471
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:265
+msgid "Kill Sosarix the Blind"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:504
+msgid ""
+"I wasn't killed by those bearded rats and I won't be killed by you, squids! "
+"We will meet again and you will pay for what you've done to me!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:509
+msgid "Sosarix disappears in a puff of smoke."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:517
+msgid "After Sosarix's departure the fog he had summoned begins to vanish."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:528
+msgid ""
+"Thanks for helping me, but given that he isn't dead, I guess my brethen "
+"would be safer if we follow you."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:532
+msgid ""
+"I'm not sure about the safer part. We have an invulnerable enemy chasing us."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:536
+msgid ""
+"I think we should go to the place that lizard mage wanted to capture - the "
+"Divining Pool."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:573
+msgid "Those big mud monsters split into two when killed!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:577
+msgid "An old trick from times before humans invaded our lands."
+msgstr ""
+
+#. [message]: speaker=Sprazs
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:600
+msgid ""
+"Your invulnerability ssspell ssseemsss to work, uncle. Why don't you cassst "
+"it on the ressst of our army?"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:604
+msgid "I'm not omnipotent and some Saurians are more expendable than other."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:629
+msgid "I can see the future! How can you think that you can harm me?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:641
+msgid ""
+"Ravyan must have defeated those drakes by now. We are trapped between two "
+"enemy armies!!"
+msgstr ""
+
+#. [label]
+#. [scenario]: id=07_The_Divining_Pool
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:6
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:294
+msgid "The Divining Pool"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:15
+msgid ""
+"The Divining Pool was a mysterious place left of unknown origin. It was said "
+"that whoever would control the Pool's powers would be capable of seeing "
+"things from distant places and different times."
+msgstr ""
+
+#. [side]: type=Spectre, id=Slave
+#. [unit]: id=Slave, type=Spectre
+#. [unit]: type=Spectre, id=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:54
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:195
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:110
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1045
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:243
+msgid "Eternal Slave"
+msgstr ""
+
+#. [side]: type=IQ Megalodon, id=Guardfish
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:83
+msgid "Island Guardian"
+msgstr ""
+
+#. [side]: type=IQ Megalodon, id=Guardfish
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:97
+msgid "Guardian Fish"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:114
+msgid "Kill Eternal Slave AND"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:118
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1205
+msgid "Master Sea Head reaches the Divining Pool"
+msgstr ""
+
+#. [label]
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:304
+msgid "Bleeding Wardstone"
+msgstr ""
+
+#. [label]
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:314
+msgid "Glowing Wardstone"
+msgstr ""
+
+#. [label]
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:324
+msgid "Moaning Wardstone"
+msgstr ""
+
+#. [label]
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:334
+msgid "Thundering Wardstone"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:350
+msgid ""
+"This island houses a magic pond that give prophetic visions to those versed "
+"in magic, as I am. This way we will be able to reveal Ravyan's weakness."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:354
+msgid ""
+"I think that he knows it, judging by the stink of rotten flesh and fungus in "
+"the air..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:358
+msgid ""
+"Did you really believed that those drakes could stop me, molluscs? Look what "
+"became of them and what awaits you too!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:404
+msgid ""
+"Lord, is it really necessary to capture those animals? They have actually "
+"helped us by killing those Wesnothian soldiers."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:409
+msgid ""
+"Do you remember how old Jevyan let that spoiled brat with striped pants "
+"escape and how it ended?"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:413
+msgid ""
+"I think that if Jevyan didn't pursue him he wouldn't have ended as he did. "
+"Also, you didn't kill that mollusc's father, so they shouldn't have a reason "
+"to oppose you, Lord. Why don't we let them go and get eaten by sperm whales?"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:418
+msgid ""
+"Enough thrash talking, slave. You will fight those molluscs and I will go "
+"find some aquatic allies."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:422
+msgid "Good idea, at last, Lord."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:426
+msgid "Of couse, it was my idea!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:437
+msgid ""
+"We should finish our work here before he returns. However, the way to the "
+"Divining pool is protected by four wardstones."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:441
+msgid ""
+"And because you can't crawl to land, it's my job to destroy them, right?!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:445
+msgid ""
+"Precisely. It won't be easy, as each of these wardstones is guarded by "
+"different kind of dangerous fish."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:449
+msgid ""
+"Of all possible lich-lords, I have to work for the one that speaks with "
+"molluscs and commands mushrooms. Oh well, let's fight some squids for Lord "
+"Ravyan's glory!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:453
+msgid "I'm afraid we have to fight that big spook in addition to the fish."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:457
+msgid "I suggest we kill him with fire!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:621
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:764
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:907
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1050
+msgid ""
+"You have broken the first wardstone. Good start, but we must destroy all of "
+"them."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:638
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:781
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:924
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1067
+msgid ""
+"We have broken half of the wardstones. Now let's take care of the other half!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:655
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:798
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:941
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1084
+msgid "Now there is only one wardstone left!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:672
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:815
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:958
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1101
+msgid "Great job! The way to the Divining Pool is clear now."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1152
+msgid ""
+"You will never defeat lord Ravyan, sea creatures. Instead your bodies will "
+"join him!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1187
+msgid ""
+"As long as Lord Ravyan lives, he can revive me. And he is immortal. He won't "
+"be happy to hear about my failure though."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1196
+msgid "We should reach the Divining Pool before his master returns!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1232
+msgid "Master Sea Head will have enough time for his divination now."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1260
+msgid "This was surely the biggest fish in these waters!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1264
+msgid ""
+"Don't forget that this time our objective is to reach the Divining Pool, not "
+"fishing."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1285
+msgid ""
+"Now I will use my mystical knowledge to divine any weaknesses of that lich-"
+"lord."
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1295
+msgid "Kill Eternal Slave"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1316
+msgid "I must stop them or Lord Ravyan won't be happy with me."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1346
+msgid "I have returned with new allies! You cannot escape me, molluscs!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1350
+msgid "He has an army of undead and nagas following him. We have no chance!"
+msgstr ""
+
+#. [scenario]: id=08_Old_Lich_and_the_Sea
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:6
+msgid "Old Lich and the Sea"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:15
+msgid ""
+"The mystcal powers of the Divining Pool  revealed to Master Sea Head that "
+"Lich-Lord Ravyan has put his soul into magical gem called the Onyx Egg. As "
+"long as the Onyx Egg remains intact, Ravyan is invulnerable. Our heroic "
+"molluscs have set out on journey to the Egg's location."
+msgstr ""
+
+#. [side]: type=Naga Sentinel
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:87
+msgid "Lamal"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:133
+msgid "Master Sea Head reaches the marked rock"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:137
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:281
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:653
+msgid "Master Sea Head gets stuck on the dry land"
+msgstr ""
+
+#. [unit]: type=Naga Warden
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:210
+msgid "Malo"
+msgstr ""
+
+#. [unit]: type=Naga Warden
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:227
+msgid "Hail"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:284
+msgid ""
+"Lord, I'm sorry that you had to revive me, but those molluscs defeated me. "
+"Now they're approaching your secret cache."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:288
+msgid ""
+"Incompetent as always! Meanwhile I have negotiated an alliance with these "
+"nagas."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:292
+msgid ""
+"Do you see that weirdly glowing rock? I saw it in my vision. That's where "
+"his Onyx Egg is hidden!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:296
+msgid ""
+"Of course...no, my Onyx Egg is...um... totally NOT under that rock "
+"surrounded by magic runes!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:300
+msgid "That didn't sound convincing, Lord."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:304
+msgid ""
+"Well, they will never reach it anyway, thanks to my fungal powers! Rise up! "
+"Rise from...um... the sea bottom? Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:309
+msgid ""
+"Look! Those big mushroom seem to be able to drain enough water to turn the "
+"sea into the dry land. And you know that beaching on dry land would be my "
+"doom!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:313
+msgid ""
+"Shouldn't he call himself lichen-lord rather than lich lord if he can "
+"command mushrooms? He has really bad aim though as his bridge leads to that "
+"weird rock instead to us."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:321
+msgid "Slave, go find some reinforcements, you dirty bag of ectoplasm!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:325
+msgid "As you wish, Lord."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:341
+msgid "Rise up! Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:351
+msgid ""
+"Those reinforcements perform as badly as I expected. Time to pave a road for "
+"my true forces! Rise up! Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:361
+msgid ""
+"Another wave of incompetent reinforcements! Time to summon more fungus! Rise "
+"up! Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:371
+msgid ""
+"Behold! I can summon fungus among these island too! Rise up! Rise from the "
+"sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:381
+msgid ""
+"I bet my fungal bridge will stop the molluscs before those *reinforcements* "
+"do. Rise up! Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:391
+msgid "Time to finish my fungal bridge! Rise up! Rise from the sea bottom!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:403
+msgid "I have found some carcasses and turned them into reinforcements!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:407
+msgid ""
+"You call a bunch of walking... um... swimming corpses *reinforcements*? I'm "
+"sure you can find more. Back to work!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:423
+msgid "I have brought further reinforcements, just as you have ordered, Lord!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:427
+msgid ""
+"I have killed and reanimated you personally! Show me some respect and bring "
+"better reinforcements next time!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:443
+msgid "I bring new wave of reinforcements, Lord!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:447
+msgid ""
+"Why do you always bring only seven at a time? Are you trying to make it fair "
+"for our enemies? Try counting with all your fingers, the fact that they lack "
+"flesh doesn't matter!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:463
+msgid ""
+"I have fetched ten new minions, just as you ordered. Is this enough, Lord?"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:467
+msgid ""
+"It will be enough when our enemies are dead. So far they're still alive and "
+"that means you have botched your task!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:483
+msgid ""
+"I am afraid we will run out of usable corpses in this area before you become "
+"satisfied, Lord!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:487
+msgid ""
+"Do you still remember how I killed and reanimated you? It would had been "
+"much more painful if I had known that you would speak with me like this!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:503
+msgid ""
+"These are all the remaining corpses I could find in this area. I'm sorry, "
+"but I cannot continue bringing more..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:507
+msgid ""
+"Look! I managed to complete my fungal bridge, but you are too incompetent to "
+"find an army to destroy those stupid molluscs. Things must have gotten "
+"really downhill since old Jevyan's death if lich-lords work harder than "
+"their undead slaves now! "
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:538
+msgid ""
+"I don't see any sign of that Onyx Egg. But there is an entrance to a cave."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:542
+msgid ""
+"Of course, I already told you that my Onyx Egg is not under that rock. It is "
+"actually in that cave you just flooded!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:552
+msgid ""
+"I think you just gave our enemies another useful piece of information, Lord."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:556
+msgid ""
+"And I think it's your fault that they've gotten so far, you lousy animated "
+"armor!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:560
+msgid ""
+"Hurry up, Inky! We must dive into this cave and find that egg, before those "
+"two stop arguing!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:571
+msgid ""
+"You won't escape me so easily, molluscs. You will never find my Onyx Egg. "
+"Go, my slaves and catch them!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:575
+msgid ""
+"Remember, Inky, we learn something new every day. Until today I thought that "
+"to become a lich one must be smarter than an average barnacle..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:599
+msgid ""
+"How dare you attack me, fool? As long as my Onyx Egg - that is totally NOT "
+"under that rock marked with magic runes - remains intact, I'm invicible!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:607
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1364
+msgid "You cannot escape me, molluscs!"
+msgstr ""
+
+#. [scenario]: id=09_Drowned_Dwarves_Day
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:7
+msgid "Drowned Dwarves' Day"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:16
+msgid ""
+"Ravyan's greatest weakness was his arrogance. Instead of following our "
+"invertebrate heroes to the cave, he started shouting on his soldiers for not "
+"managing to fulfill his orders. This would be questionable in a human army, "
+"but the fact he was blaming a bunch of aberrations withou free will for his "
+"own mistakes made the situation only silly."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:21
+msgid ""
+"Meanwhile our heroic mollucs continued their journey to the flooded cave. "
+"Master Sea Head was used to living in sea treches, so the subterranean "
+"darkness seemed strangely familiar to him. For Inky who spent most of his "
+"life in shallow coastal waters, this place was completely alien. And "
+"somewhere in this darkness was hidden the source of Ravyan's power..."
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Zlek
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:160
+msgid "Zlek"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:187
+msgid "Althus"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord
+#. [side]: type=Dwarvish Runemaster
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:200
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:150
+msgid "Dwarves"
+msgstr ""
+
+#. [side]: type=Troll Warrior
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:237
+msgid "Bog Bah"
+msgstr ""
+
+#. [side]: type=Great Troll
+#. [side]: type=Troll Warrior
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:250
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:201
+msgid "Trolls"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:315
+msgid "Master Sea Head reaches the Onyx Egg"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:484
+msgid ""
+"The sea water seems to be flooding this cave. This will help me to reach "
+"that Onyx Egg!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:496
+msgid ""
+"Look! There are those lichen-lord's mushrooms. I think we must squeeze them "
+"to allow the water to spread."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:500
+msgid ""
+"You must do it quickly. We have a whole army of undead and nagas following "
+"us!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:506
+msgid ""
+"HINT: The caves are shrouded by darkness. Your units will remove the shroud "
+"in the area they could reach next turn. This would normally be a problem as "
+"they prefer water to caves. Fortunately the water will spread if you help it."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:584
+msgid "I think I hear that lich-lord coming. We must hurry!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:799
+msgid ""
+"Rise up! Rise from the sea...um...cave floor? I should have hidden my Onyx "
+"Egg in some abandoned graveyard. It would have made recruiting guards much "
+"easier..."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:803
+msgid "Talkative as always, lichen-lord."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:807
+msgid ""
+"Stop calling me lichen-lord! I am a lich-lord! Just because you are an "
+"invertebrate doesn't mean that I can't turn you into an undead slave!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:811
+msgid ""
+"Speaking of slaves, why do those nagas follow you instead of abhoring you "
+"like every sane being?"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:815
+msgid ""
+"I want you dead. They want something tasty to eat. It's a nice cooperation."
+msgstr ""
+
+#. [message]: speaker=Zlek
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:819
+msgid ""
+"And ththen ththere wasss ththat part about our eggsss being fed to batsss if "
+"we don't obey..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:823
+msgid ""
+"I said *a nice cooperation*. Not *a voluntary cooperation equally "
+"advantageous to both parties*."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:836
+msgid "That was kind of rude."
+msgstr ""
+
+#. [unit]: id=Radaigl, type=Dwarvish Lord
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:866
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:335
+msgid "Radaigl"
+msgstr ""
+
+#. [unit]: id=Radarth, type=Dwarvish Explorer
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:880
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:349
+msgid "Radarth"
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:893
+msgid "Do you remember when we spoke about that old dam, brother?"
+msgstr ""
+
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:897
+msgid ""
+"Well, in hindsight I think you were right. Fighting those nagas just to "
+"repair it was a bad idea."
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:901
+msgid ""
+"Actually, I think it wasn't such a bad idea... It looks like those nagas "
+"didn't pay enough attention to the maintenance..."
+msgstr ""
+
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:905
+msgid ""
+"I have an idea how to stop this flood. However, we must tell the boss first!"
+msgstr ""
+
+#. [unit]: id=Bling, type=Troll Shaman
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:947
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:363
+msgid "Bling"
+msgstr ""
+
+#. [message]: speaker=Bling
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:960
+msgid ""
+"Bling see water. Bling like stone and fire not water. Bling should tell da "
+"boss!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:990
+msgid ""
+"Look! Those undead somehow got into this cave earlier and have surrounded us!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:994
+msgid ""
+"Finding a shortcut becomes much easier when you are a disembodied spirit!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1007
+msgid "At last! I'm free..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1019
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1031
+msgid ""
+"Free? What part of *eternal slavery* don't you understand? Back to work!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1057
+msgid "Well, I guess I'm not free then..."
+msgstr ""
+
+#. [unit]: type=Mermaid Diviner, id=Aphitranda
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1079
+msgid "Aphitranda"
+msgstr ""
+
+#. [message]: speaker=Aphitranda
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1089
+msgid ""
+"Thank you, honorable saver. I was imprisoned in this cave by nagas.. Hey, "
+"where are you? All I see is some horrible sea monster!?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1093
+msgid "All I see is a huge pile of luncheon meat!"
+msgstr ""
+
+#. [message]: speaker=Aphitranda
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1104
+msgid ""
+"Why do these thing always happen to me? I'm sure another mermaid on my place "
+"would have been saved by, say, elves or something..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1117
+msgid "More luncheon meat!"
+msgstr ""
+
+#. [unit]: type=Merman Triton
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1128
+msgid "Pos"
+msgstr ""
+
+#. [unit]: type=Merman Hoplite
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1146
+msgid "Nuns"
+msgstr ""
+
+#. [unit]: type=Merman Entangler
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1164
+msgid "Phord"
+msgstr ""
+
+#. [unit]: type=Merman Javelineer
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1182
+msgid "Atlau"
+msgstr ""
+
+#. [unit]: type=Mermaid Siren
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1200
+msgid "Diktynna"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1226
+msgid ""
+"There is a reason why this building is in such an unreachable place. It's "
+"full of stockpiled food!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1244
+msgid ""
+"This tunnel doesn't lead to the Onyx Egg. However, it leads to a dwarvish "
+"stockpile!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1265
+msgid ""
+"This must be the Onyx Egg. However, I am not strong enough to destroy it."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1269
+msgid ""
+"I should be able to crack it with one bite of my beak. But I must reach it "
+"first!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1286
+msgid "Behold, Ravyan! Your reign is over!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1290
+msgid "Can't we, say, negotiate?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1294
+msgid ""
+"We have killed your enemies and you started pursuing us for tresspasing your "
+"abandoned den. How stupid do you think we are that you expect us to "
+"negotiate with someone so irredeemably evil as you?"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1298
+msgid ""
+"Probably as stupid as he is. I guess you should apologize to barnacles, "
+"Master. He is more like a sea sponge."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1306
+msgid "*cracks the Onyx Egg*"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1311
+msgid ""
+"Ravyan's dark soul left its container in the form of a pitch black cloud. "
+"Guided by some eldritch force, it soared through the caves until it found "
+"its owner."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1315
+msgid "It's not over, molluscs!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1325
+msgid ""
+"Ravyan's scream echoed in the caves as his soul returned to his body. Then "
+"everything was silent with no sign of Ravyan in sight."
+msgstr ""
+
+#. [message]: speaker=Zlek
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1329
+msgid ""
+"He dessserved hisss egg broken for thththreatening our eggsss. Time to "
+"ssswim home!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1333
+msgid "Time for a strategic retreat!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:1356
+msgid ""
+"How dare you attack me, fool? As long as my Onyx Egg - that you will never "
+"find - remains intact, I'm invicible!"
+msgstr ""
+
+#. [scenario]: id=10_High_Risk_Low_Tide
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:7
+msgid "High Risk, Low Tide"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:16
+msgid ""
+"As Ravyan disappeared, so did most of his undead hordes. Also nagas returned "
+"to their home, free of the lich-lord's will. Dwarves and Trolls withdrew to "
+"escape the raising waters. At last, the cuttlefish were alone."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:21
+msgid ""
+"However, Master Sea Head knew that if a situation looks too good, it's only "
+"matter of time when it gets worse. But the water started running low before "
+"the time did..."
+msgstr ""
+
+#. [side]: type=Dwarvish Runemaster
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:137
+msgid "Glatil"
+msgstr ""
+
+#. [side]: type=Great Troll
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:188
+msgid "Grag"
+msgstr ""
+
+#. [side]
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:244
+msgid "Serpents"
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:269
+msgid "AND Master Sea Head reaches the exit"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:285
+msgid "Sosarix is killed by another faction"
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:388
+msgid ""
+"Your idea to use that abandoned storage room to drain the water seems to "
+"work, brother."
+msgstr ""
+
+#. [message]: speaker=Bling
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:392
+msgid ""
+"Dwarfs think they be smart. They be stupid! Their tunnel dry troll hole too! "
+"Bling be smart!"
+msgstr ""
+
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:396
+msgid ""
+"However, I'm still not sure who caused that flood. Those nagas weren't "
+"hostile until now and those undead didn't need water to invade."
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:400
+msgid ""
+"Maybe they wanted to drown us first. It's still more likely than your "
+"cuttlefish theory."
+msgstr ""
+
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:404
+msgid ""
+"You're probably right, brother. Though one can never be sure. Look at those "
+"trolls. They can barely speak, yet their shamans seem to wield fire magic."
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:408
+msgid ""
+"Trolls are at least somehow dwarfoid, if oversized and savage. But "
+"cuttlefish aren't even vertebrate! I would sooner belive in a talking "
+"gryphon than in a sentient cuttlefish."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:412
+msgid ""
+"Look Inky! The water is running out. We must get out of this cave as soon as "
+"possible!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:416
+msgid "You will never get out of this cave alive, squids!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:420
+msgid "Honestly, you are the last person I would expect in this place."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:424
+msgid ""
+"These are the very tunnels, where I lost my eyesight. These will be the "
+"place whre I take revenge upon you!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:428
+msgid ""
+"What about this: We will swim out of this cave and you will stay on the bank "
+"and rant because you can't breath underwater."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:432
+msgid ""
+"Not so fast, seafood. I have placed magical barrier on the exit that will "
+"enable the water to run out, but will keep you in. And then you will get "
+"beached on the cave floor and I'll cut you to pieces!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:436
+msgid ""
+"Maybe if we aquire his magic staff I will be able to break his spell, but we "
+"should do this before we run out of water."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:440
+msgid "Time to let that old lizard pay for his villainy."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:497
+msgid ""
+"That trick with big mudcrawlers splitting into two smaller is getting old "
+"fast."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:501
+msgid "No need to fix what's not broken."
+msgstr ""
+
+#. [unit]: type=Sea Serpent, id=Fangy
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:513
+msgid "Fangy the Serpent"
+msgstr ""
+
+#. [message]: speaker=Fangy
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:521
+msgid "Ruaarrrrrrrr!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:525
+msgid "Look out, a serpent has emerged from the deep."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:529
+msgid ""
+"I've said that the barrier will keep you in, not that it will keep other "
+"seafood out!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:533
+msgid "At least we know that that way leads to the sea."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:548
+msgid "Another serpent emerges. Maybe the first one brought its young?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:552
+msgid "It's like those serpent were escaping from something..."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:602
+msgid "On, no! Now we will never breach the magic barrier!"
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:620
+msgid "Is this the end?"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:624
+msgid "A well deserved end."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:632
+msgid "Now, take that his magic stick, Master."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:636
+msgid ""
+"I think I understand how to use this staff. Now I need to touch the barrier "
+"with it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:641
+msgid "Master Sea Head reaches the exit"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:690
+msgid "The magic barrier won't let us leave. We must defeat Sosarix first."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:694
+msgid "I'm blind, but not stupid. You will be the ones defeated!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:700
+msgid "Hurry up, Inky! We're coming home!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:704
+msgid "Finally. I think we deserve some rest now..."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:708
+msgid ""
+"I think I can return to my home too, now that that blind lizard is dead."
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:735
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:764
+msgid "Those beasts got me, brother!"
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:739
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:768
+msgid "I will avenge you, brother!"
+msgstr ""
+
+#. [message]: speaker=Radaigl
+#. [message]: speaker=Radarth
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:745
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:774
+msgid "I have failed to avenge you, brother..."
+msgstr ""
+
+#. [message]: speaker=Bling
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:789
+msgid "Bling not be smart after all..."
+msgstr ""
+
+#. [message]: speaker=Sosarix
+#: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:797
+msgid "You can't escape my wrath, squids!"
+msgstr ""
+
+#. [scenario]: id=11_Burial_at_Sea
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:7
+msgid "Burial at Sea"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:16
+msgid ""
+"Our ivertevrate heroes rushed through the flooded tunnels following the "
+"smell of sea. But before they could emerge in the daylight again, they "
+"approached a huge cavern. And there they realized that their journey isn't "
+"over yet..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:116
+msgid "Kill Lich-Lord Ravyan"
+msgstr ""
+
+#. [attack]: type=cold
+#. [effect]: type=cold
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:179
+#: Inky_Quest/units/IQ_Blind_Seer.cfg:307
+msgid "curse"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:412
+msgid "I think I have mastered the powers of Sosarix's staff."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:416
+msgid ""
+"To be honest, I wish we wouldn't have to fight any land-dwellers, living or "
+"undead, for rest of our lives..."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:421
+msgid "I feel I've said something I shouldn't have..."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:425
+msgid ""
+"We meet again, molluscs, just as I've promised. But this time I'm prepared "
+"to destroy you once for all!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:429
+msgid "You? Again? Aren't you supposed to be dead?"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:433
+msgid ""
+"The destruction of the Onyx Egg made me vulnerable, but it didn't kill me. "
+"Did you really think that I would create an item that can be used to my "
+"instant destruction? I'm not that stupid!"
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:437
+msgid "Of course, lord. You're not *THAT* stupid."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:441
+msgid ""
+"As soon as I regain my powers I will build a new Onyx Egg. And while you "
+"were celebrating my seeming defeat, I've found this gorgeous place..."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:445
+msgid ""
+"Technically, it was me who found this place. And I've also advised you to "
+"not anounce our survival to our enemies until it's necessary."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:449
+msgid "Shut up, Slave! I'm boasting!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:453
+msgid ""
+"Yes, boasting is all you do. We've just fought a blind lizard who was "
+"worthier enemy than you."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:457
+msgid ""
+"If you stop jumpig to my speech, I might tell you how I'm going to punish "
+"you for all suffering you have caused me."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:461
+msgid ""
+"It would be more impressive if any of your previous plans wasn't an utter "
+"failure."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:465
+msgid ""
+"I admit that you are tougher opponent than I expected, but this time I have "
+"field advantage. The shore in fron of this cavern is littered by shipwrecks, "
+"providing me with many bodies to reanimate. Rise up! Rise from... um... just "
+"rise already!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:488
+msgid "At least we know what the serpents were escaping from."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:492
+msgid ""
+"Only one of us will leave this cave alive, lichen-lord and it won't be you, "
+"if only because you're not alive to begin with."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:496
+msgid ""
+"You've helped me to get rid of that blind reptile, I will help to get rid of "
+"this talking carcass."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:513
+msgid "What is this? It has eyes like an animal, but it tastes like a plant."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:517
+msgid "Did you think that I can grow only mushrooms, molluscs?"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:521
+msgid "Fortunately they look flamable."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:534
+msgid "It's over, lichen-lord!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:542
+msgid "You accursed molluscs! Be thrice seven times cursed! Aaarrrghh!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:552
+msgid ""
+"If there was more flesh left on lich-lord's skull, Inky and Master Sea Head "
+"would have seen expression of utter fear from death and hatred to all living "
+"things in Ravyan's face. They still heard his unnatural scream as his black "
+"soul left its decayed shell."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:556
+msgid ""
+"Thank you, molluscs! With Ravyan gone, I can rest in peace. I never liked "
+"him anyway..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:561
+msgid ""
+"Without Ravyan's will to control them, all his undead horrors collapsed like "
+"puppets with their strings cut."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:568
+msgid "The undead are gone! we can leave this cave safely now!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:572
+msgid "At last. Hopefully this time we can return home for real."
+msgstr ""
+
+#. [message]: speaker=Slave
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:590
+msgid ""
+"My slavery has ended! You are too weak to raise me again, Ravyan. I never "
+"liked you anyway. Do you hear me, lich-lord? I NEVER liked you!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:597
+msgid ""
+"Loss of one slave can't stop Ravyan the Lich-lord! However, as soon as I "
+"regain  my powers, I will raise you again and you will pay for your "
+"insolence."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/scenarios/11_Burial_at_Sea.cfg:607
+msgid "I have regained my power, molluscs! You cannot stop me now!"
+msgstr ""
+
+#. [scenario]: id=12_Epilogue
+#: Inky_Quest/scenarios/12_Epilogue.cfg:7
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/12_Epilogue.cfg:14
+msgid ""
+"It took the dwarves many days to count their casualties. Many dwarves were "
+"never found. Therefore, when the dwarves discovered Ravyan's crumbled "
+"remains, they assumed that the lich-lord was slain by some unknown dwarvish "
+"hero who was later slain by either trolls or sea monsters. The troll "
+"attributed the defeat of the undead to one of their kind, but no one ever "
+"believes trolls..."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/12_Epilogue.cfg:19
+msgid ""
+"Meanwhile, on the surface, the king of Wesnoth sent an expedition to "
+"investigate fate of sir Daedry, as his last report had spoken about an "
+"undead menace. The expedition found Daedry's fortress in ruins, with no "
+"enemy in sight. Then they met dwarves bragging about how they had defeated "
+"an ancient lich. The humans quickly made the connection and Sir Daedry "
+"became known as hero killed by an evil lich who was then slain by brave "
+"dwarves."
+msgstr ""
+
+#. [part]
+#: Inky_Quest/scenarios/12_Epilogue.cfg:24
+msgid ""
+"And thus Wesnoth history never recorded true reason for Daedry's and "
+"Ravyan's ends. However, Inky and Master Sea Head were pleased with this "
+"result as they could return home, free from threats of both land-dwellers "
+"and the undead."
+msgstr ""
+
+#. [unit_type]: id=IQ Fireball, race=mechanical
+#: Inky_Quest/units/Fireball.cfg:5
+msgid "Fireball"
+msgstr ""
+
+#. [unit_type]: id=IQ Fireball, race=mechanical
+#: Inky_Quest/units/Fireball.cfg:24
+msgid ""
+"A Fireball. This is not to be used for anything else than a 'Move_Unit_Fake'!"
+msgstr ""
+
+#. [attack]: type=fire
+#: Inky_Quest/units/Fireball.cfg:28
+msgid "fire"
+msgstr ""
+
+#. [unit_type]: id=IQ Anglerfish, race=monster
+#: Inky_Quest/units/IQ_Anglerfish.cfg:4
+msgid "Anglerfish"
+msgstr ""
+
+#. [unit_type]: id=IQ Anglerfish, race=monster
+#: Inky_Quest/units/IQ_Anglerfish.cfg:21
+msgid ""
+"Anglerfish live in the deepest parts of the sea, where sunlight seldom "
+"reaches. They use strange outgrowths on their head to generate eerie light "
+"that lures prey to their powerful jaws."
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: Inky_Quest/units/IQ_Anglerfish.cfg:30
+#: Inky_Quest/units/IQ_Electric_Eel.cfg:25 Inky_Quest/units/IQ_Lamprey.cfg:25
+#: Inky_Quest/units/IQ_Megalodon.cfg:25 Inky_Quest/units/IQ_Serpent.cfg:33
+#: Inky_Quest/units/IQ_Shark.cfg:24
+msgid "fangs"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Blind Seer, race=lizard
+#: Inky_Quest/units/IQ_Blind_Seer.cfg:4
+msgid "Saurian Blind Seer"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Blind Seer, race=lizard
+#: Inky_Quest/units/IQ_Blind_Seer.cfg:19
+msgid ""
+"This Saurian shaman has lost his eyesight, but this traumatic experience has "
+"given him an insight normally unheard in his kin. Both his healing and "
+"destructive magic have improved as result of this."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Blind_Seer.cfg:295
+msgid "staff"
+msgstr ""
+
+#. [unit_type]: id=IQ Cuttlefish, race=monster
+#: Inky_Quest/units/IQ_Cuttlefish.cfg:17
+msgid ""
+"Cuttle Fish are gigantic creatures of the seas. They can grab their "
+"opponents with strong tentacles, or spit a poisonous black ink from a "
+"distance. The best way to survive an encounter with these monsters is to "
+"remain ashore."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Cuttlefish.cfg:57
+#: Inky_Quest/units/IQ_Double_Tentacle.cfg:58
+#: Inky_Quest/units/IQ_Fire_Squid.cfg:53 Inky_Quest/units/IQ_Globster.cfg:52
+#: Inky_Quest/units/IQ_Kraken.cfg:51 Inky_Quest/units/IQ_Lava_Squid.cfg:53
+#: Inky_Quest/units/IQ_Magma_Squid.cfg:54
+#: Inky_Quest/units/IQ_Markscuttlefish.cfg:49
+#: Inky_Quest/units/IQ_Markscuttlefish.cfg:61
+#: Inky_Quest/units/IQ_Trench_Hunter.cfg:53
+#: Inky_Quest/units/IQ_Trench_Hunter.cfg:65
+#: Inky_Quest/units/IQ_Trench_Kraken.cfg:54
+#: Inky_Quest/units/IQ_Trench_Tentacle.cfg:58
+#: Inky_Quest/units/IQ_Triple_Tentacle.cfg:59
+#: Inky_Quest/units/IQ_Young_Cuttlefish.cfg:50
+msgid "tentacle"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Inky_Quest/units/IQ_Cuttlefish.cfg:69 Inky_Quest/units/IQ_Globster.cfg:64
+#: Inky_Quest/units/IQ_Kraken.cfg:63
+#: Inky_Quest/units/IQ_Markscuttlefish.cfg:73
+#: Inky_Quest/units/IQ_Sea_Head.cfg:86
+#: Inky_Quest/units/IQ_Trench_Hunter.cfg:77
+#: Inky_Quest/units/IQ_Trench_Kraken.cfg:66
+#: Inky_Quest/units/IQ_Young_Cuttlefish.cfg:62
+msgid "ink"
+msgstr ""
+
+#. [unit_type]: id=IQ Double Tentacle, race=monster
+#: Inky_Quest/units/IQ_Double_Tentacle.cfg:4
+msgid "Double Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Double Tentacle, race=monster
+#: Inky_Quest/units/IQ_Double_Tentacle.cfg:18
+msgid ""
+"Some sea monsters can split their consciousness among their tentacles, so "
+"each of them can search for food independantly. Once one of them finds a "
+"victim, other tentacles are sent to help."
+msgstr ""
+
+#. [unit_type]: id=IQ Drowned Carcass, race=undead
+#: Inky_Quest/units/IQ_Drowned_Carcass.cfg:4
+msgid "Drowned Carcass"
+msgstr ""
+
+#. [unit_type]: id=IQ Drowned Carcass, race=undead
+#: Inky_Quest/units/IQ_Drowned_Carcass.cfg:33
+msgid ""
+"This bloated body once belonged to a sailor who lost his life during a "
+"seastorm. Long time spent underwater made this walking corpse more agile in "
+"aquatic environment than usual."
+msgstr ""
+
+#. [attack]: type=arcane
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Drowned_Carcass.cfg:39
+#: Inky_Quest/units/IQ_Wight.cfg:132
+msgid "touch"
+msgstr ""
+
+#. [unit_type]: id=IQ Eldritch Tentacle, race=monster
+#: Inky_Quest/units/IQ_Eldritch_Tentacle.cfg:4
+msgid "Eldritch Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Eldritch Tentacle, race=monster
+#: Inky_Quest/units/IQ_Eldritch_Tentacle.cfg:22
+msgid ""
+"This tentacle glares like molten steel, because most of its organic matter "
+"has been replaced with pure magic."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Eldritch_Tentacle.cfg:64
+#: Inky_Quest/units/IQ_Magic_Tentacle.cfg:63
+#: Inky_Quest/units/IQ_Mystic_Tentacle.cfg:63
+msgid "water spray"
+msgstr ""
+
+#. [unit_type]: id=IQ Electric Eel, race=monster
+#: Inky_Quest/units/IQ_Electric_Eel.cfg:4
+msgid "Electric Eel"
+msgstr ""
+
+#. [unit_type]: id=IQ Electric Eel, race=monster
+#: Inky_Quest/units/IQ_Electric_Eel.cfg:20
+msgid ""
+"This fish is capable of creating discharges of energy Wesnoth scholars fails "
+"to understand. Some elder magi claim it's similiar to lightnings. Everybody "
+"agress that it's not advisable to enter water in presence of this peculiar "
+"animal."
+msgstr ""
+
+#. [attack]: type=fire
+#: Inky_Quest/units/IQ_Electric_Eel.cfg:34 Inky_Quest/utils/abilities.cfg:67
+#: Inky_Quest/utils/abilities.cfg:68
+msgid "shock"
+msgstr ""
+
+#. [unit_type]: id=IQ Eyestalk, race=monster
+#: Inky_Quest/units/IQ_Eyestalk.cfg:4
+msgid "Cave Eyestalk"
+msgstr ""
+
+#. [unit_type]: id=IQ Eyestalk, race=monster
+#: Inky_Quest/units/IQ_Eyestalk.cfg:34
+msgid ""
+"Named ‘Eyestalks’ for obvious reasons, these plant-like creatures can focus "
+"their gaze onto an unsuspecting victim to draw life energy straight out of "
+"them to replenish their own. While almost defenseless against melee attacks, "
+"its deadly gaze from afar is not to be underestimated."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Eyestalk.cfg:38
+msgid "smash"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Inky_Quest/units/IQ_Eyestalk.cfg:92
+msgid "gaze"
+msgstr ""
+
+#. [unit_type]: id=IQ Fire Squid, race=monster
+#: Inky_Quest/units/IQ_Fire_Squid.cfg:4
+msgid "Fire Squid"
+msgstr ""
+
+#. [unit_type]: id=IQ Fire Squid, race=monster
+#: Inky_Quest/units/IQ_Fire_Squid.cfg:17
+msgid ""
+"Fire squids are strange cephalopods that are used to diet of Drake flesh. As "
+"result instead of ink they produce fiery breath."
+msgstr ""
+
+#. [attack]: type=fire
+#: Inky_Quest/units/IQ_Fire_Squid.cfg:65 Inky_Quest/units/IQ_Lava_Squid.cfg:65
+#: Inky_Quest/units/IQ_Magma_Squid.cfg:66
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=IQ Gargantuan Clam, race=monster
+#: Inky_Quest/units/IQ_Gargantuan_Clam.cfg:4
+msgid "Gargantuan Clam"
+msgstr ""
+
+#. [unit_type]: id=IQ Gargantuan Clam, race=monster
+#: Inky_Quest/units/IQ_Gargantuan_Clam.cfg:21
+msgid ""
+"According to a mermen fairy tale the sky and the sea are two halves of an "
+"immensely huge clam. Modern science dismisses this story as a mere myth."
+msgstr ""
+
+#. [attack]: type=blade
+#: Inky_Quest/units/IQ_Gargantuan_Clam.cfg:34
+#: Inky_Quest/units/IQ_Giant_Clam.cfg:33
+msgid "crush"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Inky_Quest/units/IQ_Gargantuan_Clam.cfg:46
+#: Inky_Quest/units/IQ_Giant_Clam.cfg:45
+msgid "pearl"
+msgstr ""
+
+#. [unit_type]: id=IQ Giant Clam, race=monster
+#: Inky_Quest/units/IQ_Giant_Clam.cfg:4
+msgid "Giant Clam"
+msgstr ""
+
+#. [unit_type]: id=IQ Giant Clam, race=monster
+#: Inky_Quest/units/IQ_Giant_Clam.cfg:20
+msgid ""
+"Giant clams are usually calm creatures that live seditary lives and rely on "
+"their sturdy shells for protection. Many divers think that they must hide "
+"huge pearls only to be surprised when the clam catches them underwater."
+msgstr ""
+
+#. [unit_type]: id=IQ Globster, race=monster
+#: Inky_Quest/units/IQ_Globster.cfg:5
+msgid "Globster"
+msgstr ""
+
+#. [unit_type]: id=IQ Globster, race=monster
+#: Inky_Quest/units/IQ_Globster.cfg:19
+msgid ""
+"This cuttlefish is so malformed, that it looks more dead than alive. Its "
+"mishapen appearance actually only disguises its powerful combat abilities."
+msgstr ""
+
+#. [unit_type]: id=IQ Kraken, race=monster
+#: Inky_Quest/units/IQ_Kraken.cfg:19
+msgid ""
+"Old sailors tell tales of sea monsters so big, that they can be mistaken for "
+"islands. Most land-dwellers dismiss these stories as fables, unaware of true "
+"rulers of sea trenches."
+msgstr ""
+
+#. [unit_type]: id=IQ Lamprey, race=monster
+#: Inky_Quest/units/IQ_Lamprey.cfg:4
+msgid "Lamprey"
+msgstr ""
+
+#. [unit_type]: id=IQ Lamprey, race=monster
+#: Inky_Quest/units/IQ_Lamprey.cfg:20
+msgid ""
+"Lampreys look similiar to eels, but instead of jaws they have a circular "
+"sucker they use to drain blood from other fish. Particularly cruel warlords "
+"punish their slaves by throwing them to a pool of these bloodthirsty "
+"creatures."
+msgstr ""
+
+#. [unit_type]: id=IQ Lava Squid, race=monster
+#: Inky_Quest/units/IQ_Lava_Squid.cfg:4
+msgid "Lava Squid"
+msgstr ""
+
+#. [unit_type]: id=IQ Lava Squid, race=monster
+#: Inky_Quest/units/IQ_Lava_Squid.cfg:17
+msgid ""
+"As a fire squid grows in size, its fire-breathing capabilities increase. Its "
+"skin starts glowing like molten rock and becomes more resistant to heat."
+msgstr ""
+
+#. [unit_type]: id=IQ Magic Tentacle, race=monster
+#: Inky_Quest/units/IQ_Magic_Tentacle.cfg:4
+msgid "Magic Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Magic Tentacle, race=monster
+#: Inky_Quest/units/IQ_Magic_Tentacle.cfg:21
+msgid ""
+"This tentacle is filled with powerful magic to the point that it glows. Such "
+"power can be used to heal allies or to destroy enemies, but also renders "
+"this tentacle unable to fight physically."
+msgstr ""
+
+#. [unit_type]: id=IQ Magma Squid, race=monster
+#: Inky_Quest/units/IQ_Magma_Squid.cfg:4
+msgid "Magma Squid"
+msgstr ""
+
+#. [unit_type]: id=IQ Magma Squid, race=monster
+#: Inky_Quest/units/IQ_Magma_Squid.cfg:18
+msgid ""
+"Some drakes with too much free time start pondering if volcanos are mouths "
+"of huge fire-breathing creatures. Their more militant kinsmen usually tell "
+"them that no such monster exists. Some recent events suggest that the answer "
+"is not as clear as it seems."
+msgstr ""
+
+#. [unit_type]: id=IQ Markscuttlefish, race=monster
+#: Inky_Quest/units/IQ_Markscuttlefish.cfg:4
+msgid "Markscuttlefish"
+msgstr ""
+
+#. [unit_type]: id=IQ Markscuttlefish, race=monster
+#: Inky_Quest/units/IQ_Markscuttlefish.cfg:17
+msgid ""
+"Some cuttlefish have devised a rather complex hunting method. They poison "
+"their prey with their ink and then cripple it using their tentacles. Then "
+"they wait until the victim dies and eat it."
+msgstr ""
+
+#. [unit_type]: id=IQ Megalodon, race=monster
+#: Inky_Quest/units/IQ_Megalodon.cfg:4
+msgid "Megalodon"
+msgstr ""
+
+#. [unit_type]: id=IQ Megalodon, race=monster
+#: Inky_Quest/units/IQ_Megalodon.cfg:20
+msgid ""
+"This shark is big enough to swallow a small boat. Not much is known about it "
+"as nobody wants to enter its proximity."
+msgstr ""
+
+#. [unit_type]: id=IQ Mud Titan, race=monster
+#: Inky_Quest/units/IQ_Mud_Titan.cfg:4
+msgid "Mud Titan"
+msgstr ""
+
+#. [unit_type]: id=IQ Mud Titan, race=monster
+#: Inky_Quest/units/IQ_Mud_Titan.cfg:18
+msgid ""
+"Being magically created from soil and water, the size of mudcrawlers is "
+"limited only by material avaible. Some can reach tremendous size and even "
+"augment their body further by attaching nearby mud."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Mud_Titan.cfg:62
+#: Inky_Quest/units/IQ_Saurian_Thunderer.cfg:25
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/IQ_Mud_Titan.cfg:71
+msgid "mud glob"
+msgstr ""
+
+#. [unit_type]: id=IQ Mystic Tentacle, race=monster
+#: Inky_Quest/units/IQ_Mystic_Tentacle.cfg:4
+msgid "Mystic Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Mystic Tentacle, race=monster
+#: Inky_Quest/units/IQ_Mystic_Tentacle.cfg:21
+msgid ""
+"Glow of this tentacle has changed to indicate that its magic is strong "
+"enough to cure poisons or heal serious injuries. Its magic attack has also "
+"improved, but it still remains harmless in melee."
+msgstr ""
+
+#. [unit_type]: id=IQ Pterois, race=monster
+#: Inky_Quest/units/IQ_Pterois.cfg:4
+msgid "Pterois"
+msgstr ""
+
+#. [unit_type]: id=IQ Pterois, race=monster
+#: Inky_Quest/units/IQ_Pterois.cfg:20
+msgid ""
+"This fish looks beautiful, but its bright colors are actually an omen of its "
+"powerful poison. Many people have died after accidentally touching its "
+"spines."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Inky_Quest/units/IQ_Pterois.cfg:25
+msgid "spines"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Thunderer, race=lizard
+#: Inky_Quest/units/IQ_Saurian_Thunderer.cfg:4
+msgid "Saurian Thunderer"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Thunderer, race=lizard
+#: Inky_Quest/units/IQ_Saurian_Thunderer.cfg:20
+msgid ""
+"This Saurian has stolen a dwarvish thunderstick and learned how to use it. "
+"However, he lacks the skill of trained dwarvish thunderers."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Inky_Quest/units/IQ_Saurian_Thunderer.cfg:34
+msgid "thunderstick"
+msgstr ""
+
+#. [unit_type]: id=IQ Sea Head, race=monster
+#: Inky_Quest/units/IQ_Sea_Head.cfg:4
+msgid "Deep Sea Elder"
+msgstr ""
+
+#. [unit_type]: id=IQ Sea Head, race=monster
+#: Inky_Quest/units/IQ_Sea_Head.cfg:44
+msgid ""
+"No matter how dangerous can tentacles from deep be, they're  only appendages "
+"of true rulers of sea trenches."
+msgstr ""
+
+#. [attack]: type=blade
+#: Inky_Quest/units/IQ_Sea_Head.cfg:77
+msgid "beak"
+msgstr ""
+
+#. [unit_type]: id=IQ Undead Serpent, race=undead
+#: Inky_Quest/units/IQ_Serpent.cfg:4
+msgid "Undead Serpent"
+msgstr ""
+
+#. [unit_type]: id=IQ Undead Serpent, race=undead
+#: Inky_Quest/units/IQ_Serpent.cfg:27
+msgid ""
+"Everything that lives can die and everything that leaves a corpse can be "
+"reanimated by dark magic. Sea Serpents are no exemption."
+msgstr ""
+
+#. [unit_type]: id=IQ Shark, race=monster
+#: Inky_Quest/units/IQ_Shark.cfg:4
+msgid "Shark"
+msgstr ""
+
+#. [unit_type]: id=IQ Shark, race=monster
+#: Inky_Quest/units/IQ_Shark.cfg:19
+msgid ""
+"Combination of exceptional senses, incredible swimming capacities and brutal "
+"strenght makes sharks apex predators of the sea."
+msgstr ""
+
+#. [unit_type]: id=IQ Trench Hunter, race=monster
+#: Inky_Quest/units/IQ_Trench_Hunter.cfg:4
+msgid "Trench Hunter"
+msgstr ""
+
+#. [unit_type]: id=IQ Trench Hunter, race=monster
+#: Inky_Quest/units/IQ_Trench_Hunter.cfg:18
+msgid ""
+"Cuttlefish have an ability to change the color of their body and their ink "
+"makes them able to merge with dark waters. This gives them an option to hide "
+"from their enemies or to surprise their prey. "
+msgstr ""
+
+#. [unit_type]: id=IQ Trench Kraken, race=monster
+#: Inky_Quest/units/IQ_Trench_Kraken.cfg:5
+msgid "Trench Kraken"
+msgstr ""
+
+#. [unit_type]: id=IQ Trench Kraken, race=monster
+#: Inky_Quest/units/IQ_Trench_Kraken.cfg:19
+msgid ""
+"Most of what we know about sea monsters come from those lucky to survive "
+"such encounter. However, some mysterious disapperances of whole ships lead "
+"to speculations about far greater dangers lurking in sea depths."
+msgstr ""
+
+#. [unit_type]: id=IQ Tentacle, race=monster
+#: Inky_Quest/units/IQ_Trench_Tentacle.cfg:4
+msgid "Trench Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Tentacle, race=monster
+#: Inky_Quest/units/IQ_Trench_Tentacle.cfg:18
+msgid ""
+"Some sea monsters have tentacles so long, that they can reach the dry land."
+msgstr ""
+
+#. [unit_type]: id=IQ Triple Tentacle, race=monster
+#: Inky_Quest/units/IQ_Triple_Tentacle.cfg:4
+msgid "Triple Tentacle"
+msgstr ""
+
+#. [unit_type]: id=IQ Triple Tentacle, race=monster
+#: Inky_Quest/units/IQ_Triple_Tentacle.cfg:19
+msgid ""
+"Some sea monsters have so many tentacles, that loss of one or two hardly "
+"matters."
+msgstr ""
+
+#. [unit_type]: id=IQ Wight, race=undead
+#: Inky_Quest/units/IQ_Wight.cfg:4
+msgid "Wight"
+msgstr ""
+
+#. [unit_type]: id=IQ Wight, race=undead
+#: Inky_Quest/units/IQ_Wight.cfg:21
+msgid ""
+"This lost soul was punished by punishment far worse than death - the "
+"undeath. Risen to false life, it still relives memories of its death, yet is "
+"unable to deny orders of its new masters."
+msgstr ""
+
+#. [attack]: type=cold
+#: Inky_Quest/units/IQ_Wight.cfg:144
+msgid "wail"
+msgstr ""
+
+#. [unit_type]: id=IQ Young Cuttlefish, race=monster
+#: Inky_Quest/units/IQ_Young_Cuttlefish.cfg:17
+msgid ""
+"This cuttlefish is still young, but it's already capable of grabbing its "
+"prey with its ten tentacles and spiting toxic ink."
+msgstr ""
+
+#. [unit_type]: id=Naga Guardian, race=naga
+#: Inky_Quest/units/Naga_Guardian.cfg:4
+msgid "Naga Guardian"
+msgstr ""
+
+#. [unit_type]: id=Naga Guardian, race=naga
+#. [unit_type]: id=Naga Warden, race=naga
+#: Inky_Quest/units/Naga_Guardian.cfg:23 Inky_Quest/units/Naga_Warden.cfg:22
+msgid ""
+"These heavy fighters are the elite guards of the naga. They are slower and "
+"more heavily armored than most naga and wield huge maces which they use to "
+"crush their enemies. They mostly guard naga outposts, but occasionally "
+"participate in offensive raids."
+msgstr ""
+
+#. [attack]: type=impact
+#: Inky_Quest/units/Naga_Guardian.cfg:86 Inky_Quest/units/Naga_Sentinel.cfg:28
+#: Inky_Quest/units/Naga_Warden.cfg:27
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=Naga Hunter, race=naga
+#: Inky_Quest/units/Naga_Hunter.cfg:4
+msgid "Naga Hunter"
+msgstr ""
+
+#. [unit_type]: id=Naga Hunter, race=naga
+#: Inky_Quest/units/Naga_Hunter.cfg:19
+msgid ""
+"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
+"are naturally resistant to poison, they have no qualms about hunting with "
+"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
+"have been known to slay many kinds of prey."
+msgstr ""
+
+#. [attack]: type=blade
+#: Inky_Quest/units/Naga_Hunter.cfg:42
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Inky_Quest/units/Naga_Hunter.cfg:51
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Naga Sentinel, race=naga
+#: Inky_Quest/units/Naga_Sentinel.cfg:4
+msgid "Naga Sentinel"
+msgstr ""
+
+#. [unit_type]: id=Naga Sentinel, race=naga
+#: Inky_Quest/units/Naga_Sentinel.cfg:23
+msgid ""
+"The heavy fighters are the elite guards of the naga. They are slower and "
+"more heavily armored than most naga and wield huge maces which they use to "
+"crush their enemies. They mostly guard naga outposts, but occasionally "
+"participate in offensive raids."
+msgstr ""
+
+#. [unit_type]: id=Naga Warden, race=naga
+#: Inky_Quest/units/Naga_Warden.cfg:4
+msgid "Naga Warden"
+msgstr ""
+
+#. [skirmisher]: id=distract
+#: Inky_Quest/utils/abilities.cfg:8
+msgid "distract"
+msgstr ""
+
+#. [skirmisher]: id=distract
+#: Inky_Quest/utils/abilities.cfg:9
+msgid ""
+"Distract:\n"
+"This unit negates enemy Zones of Control around itself for allied units (but "
+"not for itself)."
+msgstr ""
+
+#. [dummy]: id=attraction
+#: Inky_Quest/utils/abilities.cfg:24
+msgid "attraction"
+msgstr ""
+
+#. [dummy]: id=attraction
+#: Inky_Quest/utils/abilities.cfg:25
+msgid "female^attraction"
+msgstr ""
+
+#. [dummy]: id=attraction
+#: Inky_Quest/utils/abilities.cfg:26
+msgid ""
+"Attraction: This unit halves movement of all enemies that start their turn "
+"next to it."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:69 Inky_Quest/utils/abilities.cfg:71
+msgid ""
+"Shock:\n"
+"When this attack is used on offense, the opponent will retaliate with one "
+"less strike than normally, to a minimum of one strike."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:87
+msgid "battle healing"
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:88
+msgid "female^battle healing"
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:89
+msgid ""
+"This attack heals adjacent allies for one half of the damage dealt to a "
+"living enemy."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:190
+msgid ""
+"This unit is capable of distracting opponents, allowing allied units to "
+"trespass their Zones of Control and move unhindered around them."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:193
+msgid "This unit attracts enemies, halving their movement."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:196
+msgid ""
+"When this attack is used on offense, the opponent will retaliate with one "
+"less strike than normally, to a minimum of one strike."
+msgstr ""
+
+#: Inky_Quest/utils/abilities.cfg:199
+msgid ""
+"This unit can adjacent allies for one half of damage dealt to a living enemy."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/deaths.cfg:9
+msgid "I'm a goner!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/deaths.cfg:23
+msgid "I am doomed!"
+msgstr ""
+
+#. [message]: speaker=Beaky
+#: Inky_Quest/utils/deaths.cfg:37
+msgid "Aaarrgh!"
+msgstr ""
+
+#. [message]: speaker=Squiddy
+#: Inky_Quest/utils/deaths.cfg:49
+msgid "That hurts!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/deaths.cfg:64
+msgid "Other clams won't follow us without her!"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/utils/deaths.cfg:91
+msgid "I though you were going to help me..."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/utils/deaths.cfg:100
+msgid "I can no longer help you."
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/deaths.cfg:104
+msgid "Other fire squids will not trust us without him!"
+msgstr ""
+
+#. [message]: speaker=$unit_on_water.id
+#: Inky_Quest/utils/flood.cfg:427
+msgid "I can't swim!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:12
+msgid "Why do you wa-...er...disturb my recuperation?"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/lichen.cfg:16
+msgid ""
+"Excuse me, Master, but I have cought enough fish to feed the hatchlings and "
+"I have even protected the hatchary from an invasion of the land-dwellers."
+msgstr ""
+
+#. [message]: speaker=Elcmas
+#: Inky_Quest/utils/lichen.cfg:25
+msgid ""
+"Those sea monsters have done another foul deed and I was once again unable "
+"to stop them. I should tell sir Daedry. Those sea monsters will pay with "
+"their blue blood!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:32
+msgid "Look! It seems like at least one merman has escaped you!"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/lichen.cfg:36
+msgid ""
+"I think I have seen him before... Wasn't it that one that held Gaa in that "
+"cage?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:44
+msgid ""
+"He must be responsible for those land-dwellers landing near our hatchary. We "
+"must catch him before he tells the land-dwellers to send reinforcements!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:56
+msgid "Our mission here is complete. We can return home now."
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/utils/lichen.cfg:82
+msgid ""
+"Do you think you can break into my fortress unpunished, you semi-inteligent "
+"molluscs?"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:86
+msgid "Who are you and what do you mean by semi-intelligent?"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/utils/lichen.cfg:93
+msgid ""
+"If you were fully intelligent, you wouldn't have killed all those people in "
+"the domain of Ravyan the Lich-Lord!"
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:97
+msgid ""
+"Look, Inky. He is raising all those land-dwellers you have slain! We should "
+"retreat before he finishes it!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/utils/lichen.cfg:109
+msgid "Do you think you can escape me so easily, molluscs? I'm unstopable!"
+msgstr ""
+
+#. [message]: speaker=Kermath Ihn
+#: Inky_Quest/utils/lichen.cfg:118
+msgid ""
+"As long as I remain the warchief, I won't let undead monstrosities roam my "
+"land!"
+msgstr ""
+
+#. [message]: speaker=Ga'ashinari
+#: Inky_Quest/utils/lichen.cfg:129
+msgid ""
+"Kermath Ihn might have been more lenient, but I won't endure undead taking a "
+"stroll in my domain!"
+msgstr ""
+
+#. [message]: role=Survivor
+#: Inky_Quest/utils/lichen.cfg:139
+msgid "We must avenge death of our warchief! Don't let that lich escape!"
+msgstr ""
+
+#. [message]: speaker=Ravyan
+#: Inky_Quest/utils/lichen.cfg:147
+msgid "Pathetic reptile! You can barely slow me down!"
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/utils/lichen.cfg:151
+msgid ""
+"I see you have enough problems on your own, but would you mind helping me "
+"with that blind lizard?"
+msgstr ""
+
+#. [message]: speaker=Inky
+#: Inky_Quest/utils/lichen.cfg:155
+msgid "We will help you if you promise to help us with our quest later."
+msgstr ""
+
+#. [message]: speaker=Flamy
+#: Inky_Quest/utils/lichen.cfg:159
+msgid "Agreed."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/utils/lichen.cfg:185
+msgid "Oh no! I got stuck on the dry land!"
+msgstr ""
