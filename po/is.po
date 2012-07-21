@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-14 10:34-0400\n"
+"POT-Creation-Date: 2012-07-21 08:03-0400\n"
 "PO-Revision-Date: 2012-07-14 10:34-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -228,7 +228,11 @@ msgstr ""
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:972
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1027
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:175
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:664
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:774
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:829
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:150
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:300
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:672
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:151
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:430
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:475
@@ -252,7 +256,11 @@ msgstr ""
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:544
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:631
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:179
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:668
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:778
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:833
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:154
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:304
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:676
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:155
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:434
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:479
@@ -286,11 +294,11 @@ msgstr ""
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:976
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1031
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:183
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:778
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:829
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:158
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:304
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:680
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:782
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:837
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:162
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:312
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:688
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:163
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:442
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:487
@@ -680,7 +688,7 @@ msgstr ""
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:764
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:1017
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:768
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:815
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:819
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1203
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1293
 msgid "Continued Objectives:"
@@ -700,7 +708,7 @@ msgstr ""
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:534
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:654
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:694
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:658
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:666
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:469
 #: Inky_Quest/scenarios/10_High_Risk_Low_Tide.cfg:639
 msgid "Final Objectives:"
@@ -773,7 +781,7 @@ msgstr ""
 #. [message]: speaker=Sea Head
 #: Inky_Quest/scenarios/02_A_Mussel_in_Distress.cfg:713
 msgid ""
-"Now that those fish are dead, our younglings can feast on their carrion and "
+"Now that those fish are dead, our younglings can feast on their carrions and "
 "I have enough time to free this unfortunate clam."
 msgstr ""
 
@@ -871,7 +879,10 @@ msgstr ""
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:948
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:281
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:711
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:243
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:247
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:396
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:482
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:568
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:266
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:461
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1200
@@ -992,6 +1003,7 @@ msgstr ""
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:511
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:548
 #: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:636
+#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:725
 msgid "Those sea monsters seem to be as hungry as Elcmas reported!"
 msgstr ""
 
@@ -1028,11 +1040,6 @@ msgstr ""
 msgid ""
 "Having caught this huge fish, we have enough food for the hatchlings. "
 "However, we should defend the hatchery from the land-dwellers."
-msgstr ""
-
-#. [message]: speaker=Fish1
-#: Inky_Quest/scenarios/03_Inky_Goes_Fishing.cfg:725
-msgid "Those sea monsters seem to be as hungry as Elcmas has reported!"
 msgstr ""
 
 #. [unit]: type=Merman Fighter, id=Vodniwha
@@ -1203,7 +1210,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:163
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:817
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:821
 msgid "Kill sir Daedry"
 msgstr ""
 
@@ -1214,7 +1221,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:171
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:821
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:825
 msgid "Human unit reaches the continent"
 msgstr ""
 
@@ -1354,6 +1361,26 @@ msgstr ""
 msgid "Ford Haunt"
 msgstr ""
 
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:444
+msgid "Death cannot stop those who are already dead!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:459
+msgid "By now you should know that you cannot stop me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:473
+msgid "Well, I guess you have stopped me..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:487
+msgid "At last! I no longer have to haunt this ford..."
+msgstr ""
+
 #. [message]: speaker=Daedry
 #: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:647
 msgid ""
@@ -1435,23 +1462,15 @@ msgstr ""
 msgid "Kill Elcmas"
 msgstr ""
 
-#. [objective]: condition=lose
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:774
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:825
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:150
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:296
-msgid "Death of Inky or Master Sea Head"
-msgstr ""
-
 #. [message]: speaker=Elcmas
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:800
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:804
 msgid ""
 "I have failed Mirgata. I have failed the rest of my kin. I have failed sir "
 "Daedry. I have failed everybody..."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:812
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:816
 msgid ""
 "However, the land-dweller leader is still alive. I believe you can defeat "
 "him."
@@ -1460,7 +1479,8 @@ msgstr ""
 #. [side]: type=Ancient Lich, id=Ravyan
 #. [unit]: id=Ravyan, type=Ancient Lich
 #. [unit]: type=Ancient Lich, id=Ravyan
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:856
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:864
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:59
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:170
 #: Inky_Quest/scenarios/08_Old_Lich_and_the_Sea.cfg:54
 #: Inky_Quest/scenarios/09_Drowned_Dwarves_Day.cfg:83
@@ -1469,14 +1489,14 @@ msgid "Lich-Lord Ravyan"
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:866
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:874
 msgid ""
 "It seems as if I can't take few days off without somebody breaking into my "
 "fortress. Attack, my slaves!"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:870
+#: Inky_Quest/scenarios/04_The_Haunted_Ford.cfg:878
 msgid ""
 "I can see a giant army of undead on the horizon! We have no chance of escape!"
 msgstr ""
@@ -1502,11 +1522,6 @@ msgid ""
 "worthy opponent to the army of Wesnoth. But now the soldiers that held him "
 "at bay were dead and he was able to unleash his horrible powers on our "
 "heroic molluscs."
-msgstr ""
-
-#. [side]: type=Ancient Lich, id=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:59
-msgid "Lich-lord Ravyan"
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Ravyan
@@ -1550,75 +1565,75 @@ msgid "Move Master Sea Head and Inky to the northern edge of the map"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:154
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:300
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:676
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:158
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:308
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:684
 msgid "None of the Drakes survives"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:206
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:210
 msgid "Hurry up, Inky. That undead lord seems to be chasing us!"
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:210
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:214
 msgid ""
 "From what I remember of the previous battle, those freaks can't move any "
 "fast in the water. We will die of venerable age before they catch us."
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:214
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:218
 msgid ""
 "Using my powers over fungi I can create way for my forces. It's just matter "
 "of time before I catch you, molluscs!"
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:219
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:223
 msgid ""
 "Look, Master! Those abominations can turn sea to land. Perhaps we can't "
 "outswim them after all."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:223
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:227
 msgid ""
 "That's why we've come here. This volcanic archipelago is home to the Drakes. "
 "They breath flames and the undead seem vulnerable to fire."
 msgstr ""
 
 #. [message]: speaker=Ga'ashinari
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:227
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:231
 msgid ""
 "Today is the day of your defeat, old man! I challenge you to the duel for "
 "the position of the warchief!"
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:231
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:235
 msgid ""
 "You dare to challenge me, twerp? I've seen Nagas that were stronger and "
 "Saurians that were braver than you!"
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:235
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:239
 msgid ""
 "Do you think those fire-breathing reptiles pose an obstacle to me, molluscs? "
 "I'm invulnerable! Nothing can stop me! You cannnot hide from my wrath!"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:239
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:243
 msgid ""
 "Just in case his boasting has any seed of truth, we should escape while "
 "there are still some Drakes that could slow him down."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:249
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:253
 msgid ""
 "HINT: Drakes fight better at day, are very strong and take less damage from "
 "impacts of your tentacles. At the same time, they are easy to hit on most "
@@ -1627,14 +1642,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:259
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:263
 msgid ""
 "Look, Master. There is some weird cuttlefish that seem to be trapped in "
 "something white."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:263
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:267
 msgid ""
 "That white thing is ice. It is water turned solid by low temperature. This "
 "bring question what is it doing in this warm environment inhbited by fire-"
@@ -1642,14 +1657,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:267
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:271
 msgid ""
 "Maybe he will tell us if we save him from it. But I better not touch that "
 "ice. It looks really cold."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:271
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:275
 msgid ""
 "The volcano on the north-west looks like it's connected to several vents. If "
 "we block them, the accumulated pressure might cause the volcano to explode "
@@ -1657,120 +1672,113 @@ msgid ""
 msgstr ""
 
 #. [objectives]
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:286
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:290
 msgid "New objectives:"
 msgstr ""
 
 #. [objective]: condition=win
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:288
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:292
 msgid "Rescue the trapped creature by closing the volcanic vents"
 msgstr ""
 
 #. [objective]: condition=win
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:292
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:296
 msgid "AND move Master Sea Head and Inky to the northern edge of the map"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:352
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:438
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:524
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:360
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:446
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:532
 msgid "One vent is closed, but we must block them all."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:364
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:450
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:536
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:372
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:458
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:544
 msgid "There is still one open vent. Hurry up!"
-msgstr ""
-
-#. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:376
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:462
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:548
-msgid ""
-"Now when all the vents are closed, we should wait until the volcano explodes."
-msgstr ""
-
-#. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:380
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:466
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:552
-msgid ""
-"But rather than waiting idly, we should try to get as far away from that "
-"undead lord as possible."
 msgstr ""
 
 #. [message]: speaker=Sea Head
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:384
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:470
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:556
-msgid "Good idea, Inky."
+msgid ""
+"Now when all the vents are closed, we should wait until the volcano explodes."
 msgstr ""
 
-#. [message]: speaker=Gaa
+#. [message]: speaker=Inky
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:388
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:474
 #: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:560
-msgid "Gaa!"
+msgid ""
+"But rather than waiting idly, we should try to get as far away from that "
+"undead lord as possible."
+msgstr ""
+
+#. [message]: speaker=Sea Head
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:392
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:478
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:564
+msgid "Good idea, Inky."
 msgstr ""
 
 #. [unit]: type=IQ Fire Squid, id=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:610
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:618
 msgid "Flamy"
 msgstr ""
 
 #. [message]: speaker=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:630
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:638
 msgid "Thank you for freeing me. It's nice to see some fellow cephalopods."
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:634
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:642
 msgid ""
 "Hello, my name is Inky and this is Master Sea Head. Who are you? You don't "
 "look like a normal cuttlefish."
 msgstr ""
 
 #. [message]: speaker=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:638
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:646
 msgid ""
 "My name is Flamy and I'm a fire squid. We live in this volcanic archipelago "
 "and have learned how to breathe fire just like the drakes do."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:642
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:650
 msgid "So how did you get trapped in that ice?"
 msgstr ""
 
 #. [message]: speaker=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:646
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:654
 msgid ""
 "A blind lizard mage is terrorizing these waters, setting traps to catch my "
 "kind."
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:650
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:658
 msgid ""
 "Like if one crazy user of ice magic chasing us wasn't enough. Don't the land-"
 "dwellers have something better to do than trying to kill us?"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:654
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:662
 msgid "Welll, they try to kill each other often too."
 msgstr ""
 
 #. [objective]: condition=win
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:660
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:668
 msgid "Move Master Sea Head, Inky and Flamy to the northern edge of the map"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:672
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:680
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:159
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:438
 #: Inky_Quest/scenarios/06_Blinded_by_the_Mists.cfg:483
@@ -1778,106 +1786,106 @@ msgid "Death of Flamy"
 msgstr ""
 
 #. [message]: speaker=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:722
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:772
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:730
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:780
 msgid "Wait for me, friends!"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:730
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:738
 msgid "Hurry up, Inky! We must escape!"
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:738
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:746
 msgid "We should rescue the frozen creature before we leave."
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:780
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:788
 msgid "Everybody move here, so we can escape!"
 msgstr ""
 
 #. [message]: speaker=Inky
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:788
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:796
 msgid "I think we shouldn't leave the trapped creature behind."
 msgstr ""
 
 #. [message]: speaker=Sea Head
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:817
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:825
 msgid "Wait for me, younglings!"
 msgstr ""
 
 #. [message]: speaker=Flamy
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:825
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:833
 msgid "We should go this way. Hurry up!"
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:856
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:864
 msgid ""
 "We are attacked by some monsters. Shouldn't we postpone our duel until we "
 "deal with these beasts?"
 msgstr ""
 
 #. [message]: speaker=Ga'ashinari
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:860
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:868
 msgid "Are you already scared of me, old man?"
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:864
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:872
 msgid "Scared of you, twerp? Never!"
 msgstr ""
 
 #. [message]: speaker=Ga'ashinari
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:889
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:897
 msgid "Your reign is over, old man! I am the warchief now!"
 msgstr ""
 
 #. [message]: speaker=Ga'ashinari
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:895
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:903
 msgid ""
 "Well, this wasn't the way I expected to win, but it looks like I'm the new "
 "warchief."
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:904
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:912
 msgid ""
 "Killed by those monsters rather than in a honorable combat. what a shame!"
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:927
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:935
 msgid "The duel is over! I remain the warchief! You never had a chance, twerp!"
 msgstr ""
 
 #. [message]: speaker=Kermath Ihn
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:933
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:941
 msgid ""
 "What a senseless waste of a drake's life. Unless anyone else wants to "
 "challenge me, I remain the warchief."
 msgstr ""
 
 #. [message]: speaker=Ga'ashinari
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:942
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:950
 msgid "I expected to enjoy the position of the warchief for longer time..."
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:962
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:970
 msgid ""
 "Now that there are no drakes in way I can finally destroy you, molluscs!"
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:984
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:992
 msgid "Stupid mollusc! I've already told you that I'm invulnerable!"
 msgstr ""
 
 #. [message]: speaker=Ravyan
-#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:992
+#: Inky_Quest/scenarios/05_Clash_of_the_Drakes.cfg:1000
 msgid "You will never escape me, molluscs!"
 msgstr ""
 
@@ -2224,13 +2232,13 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:114
-msgid "Kill Eternal Slave AND"
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1295
+msgid "Kill Eternal Slave"
 msgstr ""
 
 #. [objective]: condition=win
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:118
-#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1205
-msgid "Master Sea Head reaches the Divining Pool"
+msgid "AND Master Sea Head reaches the Divining Pool"
 msgstr ""
 
 #. [label]
@@ -2405,6 +2413,11 @@ msgstr ""
 msgid "We should reach the Divining Pool before his master returns!"
 msgstr ""
 
+#. [objective]: condition=win
+#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1205
+msgid "Master Sea Head reaches the Divining Pool"
+msgstr ""
+
 #. [message]: speaker=Inky
 #: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1232
 msgid "Master Sea Head will have enough time for his divination now."
@@ -2427,11 +2440,6 @@ msgstr ""
 msgid ""
 "Now I will use my mystical knowledge to divine any weaknesses of that lich-"
 "lord."
-msgstr ""
-
-#. [objective]: condition=win
-#: Inky_Quest/scenarios/07_The_Divining_Pool.cfg:1295
-msgid "Kill Eternal Slave"
 msgstr ""
 
 #. [message]: speaker=Slave
