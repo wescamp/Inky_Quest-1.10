@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Inky_Quest-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-23 16:53-0400\n"
+"POT-Creation-Date: 2013-08-02 22:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2950,7 +2950,7 @@ msgstr ""
 
 #. [attack]: type=cold
 #. [effect]: type=cold
-#: ./Inky_Quest/scenarios/12_Burial_at_Sea.cfg:179 ./Inky_Quest/units/IQ_Blind_Seer.cfg:310
+#: ./Inky_Quest/scenarios/12_Burial_at_Sea.cfg:179 ./Inky_Quest/units/IQ_Blind_Seer.cfg:310 ./Inky_Quest/units/IQ_Saurian_Concoctionist.cfg:62
 msgid "curse"
 msgstr ""
 
@@ -3396,6 +3396,26 @@ msgstr ""
 msgid "pearl"
 msgstr ""
 
+#. [unit_type]: id=IQ Ghost Ship, race=undead
+#: ./Inky_Quest/units/IQ_Ghost_Ship.cfg:4
+msgid "Ghost Ship"
+msgstr ""
+
+#. [unit_type]: id=IQ Ghost Ship, race=undead
+#: ./Inky_Quest/units/IQ_Ghost_Ship.cfg:30
+msgid "This ship isn't made of wood and iron, but of dark fog and foul magic. Manned by ghosts of drowned sailors it soars above the sea surface, looking for next unfortunate souls to add them into its undead crew."
+msgstr ""
+
+#. [attack]: type=arcane
+#: ./Inky_Quest/units/IQ_Ghost_Ship.cfg:35
+msgid "baneblade"
+msgstr ""
+
+#. [attack]: type=pierce
+#: ./Inky_Quest/units/IQ_Ghost_Ship.cfg:46
+msgid "ballista"
+msgstr ""
+
 #. [unit_type]: id=IQ Giant Clam, race=monster
 #: ./Inky_Quest/units/IQ_Giant_Clam.cfg:4
 msgid "Giant Clam"
@@ -3524,6 +3544,26 @@ msgstr ""
 #. [attack]: type=pierce
 #: ./Inky_Quest/units/IQ_Pterois.cfg:25
 msgid "spines"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Concoctionist, race=lizard
+#: ./Inky_Quest/units/IQ_Saurian_Concoctionist.cfg:4
+msgid "Saurian Concoctionist"
+msgstr ""
+
+#. [unit_type]: id=IQ Saurian Concoctionist, race=lizard
+#: ./Inky_Quest/units/IQ_Saurian_Concoctionist.cfg:19
+msgid "This saurian shaman always carries a large cauldron where he cooks various magical concoctions, such as healing potions, deadly posions or blinding mist."
+msgstr ""
+
+#. [attack]: type=impact
+#: ./Inky_Quest/units/IQ_Saurian_Concoctionist.cfg:38
+msgid "poisonous touch"
+msgstr ""
+
+#. [attack]: type=impact
+#: ./Inky_Quest/units/IQ_Saurian_Concoctionist.cfg:50
+msgid "poisonous vapors"
 msgstr ""
 
 #. [unit_type]: id=IQ Saurian Thunderer, race=lizard
